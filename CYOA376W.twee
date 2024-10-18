@@ -61,24 +61,40 @@ You respond
 
 
 
+:: Oppose the use of facial recognition technology {"position":"250,475","size":"100,100"}
+
+
+
+:: Request more time to assess the impact of the technology {"position":"375,475","size":"100,100"}
+
+
+
 :: Sue them for leaking company secrets {"position":"400,900","size":"100,100"}
 You sue them for leaking company secrets, only to find out that the group of ex-developers are within their ACM Ethical rights, where they are allowed to break confidentiality as Armstech has marketed itself as a non-lethal technology company.
 
 
-
-
-:: There is a meeting to be had (You are working on a project) {"position":"300,375","size":"100,100"}
+:: Support the use of facial recognition technology {"position":"125,475","size":"100,100"}
 
 
 
-:: You called a meeting (You are a project lead {"position":"750,350","size":"100,100"}
+:: There is a meeting to be had (You are working on a project) {"position":"250,350","size":"100,100"}
+In today's meeting, the team discusses some recent developments in augmented reality. The goal of this technology is to improve the user experience, but it can also raise concerns about user privacy. Team members have different opinions on whether to implement facial recognition technology in the product.
+
+You
+
+[[Support the use of facial recognition technology]]
+[[Oppose the use of facial recognition technology]]
+[[Request more time to assess the impact of the technology]]
+
+
+:: You called a meeting (You are a project lead) {"position":"750,350","size":"100,100"}
 You are meeting with Government officials, ironing out a lucrative defense contract. They express interest in allowing your Pepper Ball Sentry use facial recognition AI using datasets from secret watchlists.
 
 You
+
 [[Agree to use facial recognition with secret watchlists]]
 [[Agree to use facial recognition but work with public accessible watchlists]]
 [[Disagree with using facial recognition]]
-
 
 
 :: You walk in to work {"position":"525,50","size":"100,100"}
@@ -89,6 +105,5 @@ Armstech has dabbled in Autonomous Response weaponry and have become popular wit
 
 You walk in to work and remember that
 
-[[You called a meeting (You are a project lead]]
+[[You called a meeting (You are a project lead)]]
 [[There is a meeting to be had (You are working on a project)]]
-
