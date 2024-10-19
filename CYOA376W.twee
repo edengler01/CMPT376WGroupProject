@@ -12,17 +12,10 @@ Test
 }
 
 
-:: Agree to change the ammo chamber {"position":"400,650","size":"100,100"}
-The government officials then ask if you can create a lethal version of the Pepper Ball Sentry utilizing miltiary grade ammunition.
+:: Agree to change the ammo chamber {"position":"400,500","size":"100,100"}
+The government officials are pleased and grant you and Armstech the lucartive defense contract to work on a lethal version of the Pepper Ball Sentry. 
 
-You:
-
-[[Agree to create a lethal version]]
-[[Disagree with using the lethal version]]
-
-
-:: Agree to create a lethal version {"position":"400,775","size":"100,100"}
-The government officials are pleased and grant you and Armstech the lucartive defense contract to work on a lethal version of the Pepper Ball Sentry. You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to create a lethal version of the Pepper Ball Sentry.
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to create a lethal version of the Pepper Ball Sentry.
 
 Many of them quit in protest and plan to speak out about Armstech creating an autonomous weapon that can kill.
 
@@ -32,19 +25,83 @@ You
 [[Face the scrutiny and let them talk]]
 
 
-:: Agree to use facial recognition but work with public accessible watchlists {"position":"875,525","size":"100,100"}
+:: Agree to change the ammo chamber while using secret data {"position":"775,450","size":"100,100"}
+The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract which is lower than anticipated.
+ 
+
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision on using secret government data for the Pepper Ball Sentry.
+
+Many of them quit in protest and plan to speak out about Armstech using secret data watchlists..
+
+You
+
+[[Sue them for leaking company secrets]]
+[[Face the scrutiny and let them talk]]
+
+
+:: Agree to changing the ammo chamber using your own data {"position":"1050,350","size":"100,100"}
+The government officials are pleased and grant you and Armstech the lucartive defense contract to work on a lethal version of the Pepper Ball Sentry. 
+
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to create a lethal version of the Pepper Ball Sentry.
+
+Many of them quit in protest and plan to speak out about Armstech creating an autonomous weapon that can kill.
+
+You
+
+[[Sue them for leaking company secrets]]
+[[Face the scrutiny and let them talk]]
 
 
 
-:: Agree to use facial recognition with secret watchlists {"position":"750,525","size":"100,100"}
+:: Create your own dataset {"position":"1025,200","size":"100,100"}
+The officals OK your request for using your own data.
+
+The officials then give you one last request. The Pepper Ball Sentry uses proprietary pepper balls.
+
+The government officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
+
+You:
+
+[[Agree to changing the ammo chamber using your own data]]
+
+[[Disagree with changing the ammo chamber while using your own data]] 
 
 
+:: Disagree with changing the ammo chamber {"position":"975,900","size":"100,100"}
+The officials are disappointed and decide to not award Armstech with a defense contract.
 
-:: Disagree with changing the ammo chamber {"position":"575,650","size":"100,100"}
+You decide to call a meeting with your team and tell them that they did not get the defense contract because of the requirements on using secret data and/or creating a potential lethal version of the Sentry.
+
+Many of your devs respect your decision to kee with the ECM of Do No Harm and Honoring Confidentiality.
 
 
+:: Disagree with changing the ammo chamber while using secret data {"position":"950,325","size":"100,100"}
+The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract which is lower than anticipated.
+ 
 
-:: Disagree with using facial recognition {"position":"500,450","size":"100,100"}
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision on using secret government data for the Pepper Ball Sentry.
+
+Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.c
+
+You
+
+[[Sue them for leaking company secrets]]
+[[Face the scrutiny and let them talk]]
+
+
+:: Disagree with changing the ammo chamber while using your own data {"position":"1300,375","size":"100,100"}
+The officials are disappointed, but they still offer you a lower defense contract to work on a non-lethal Pepper Ball sentry using your own datasets. 
+
+You decide to call a meeting with your team and announce the news. The developers are happy that Armstech has gone with non-lethal and even with decided how to create their own data sets for facial recognition.
+
+The devs appreciate that you followed:
+
+1.2 Avoid Harm: Avoiding the potential of lethal modifications to the Sentry
+1.7 Honor confidentiality: Not using secret government data collected.
+2.5 Comprehensive & through evaulations of systems and impacts: By creating their own datasets and not allowing modularization of the Sentry, evaluation is through and controlled by Armstech.
+
+
+:: Disagree with using facial recognition {"position":"525,375","size":"100,100"}
 The government officials express disappointment in not using facial watchlist, but still express interest in the Sentry. Currently the Sentry uses a propertiery size Pepper Ball that no other company uses. The government officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo
 
 You respond
@@ -53,31 +110,33 @@ You respond
 [[Disagree with changing the ammo chamber]]
 
 
-:: Disagree with using the lethal version {"position":"525,775","size":"100,100"}
+
+
+:: Face the scrutiny and let them talk {"position":"650,1000","size":"100,100"}
+The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
+
+Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.c
+
+
+:: Oppose the use of facial recognition technology {"position":"150,475","size":"100,100"}
 
 
 
-:: Face the scrutiny and let them talk {"position":"525,900","size":"100,100"}
+:: Request more time to assess the impact of the technology {"position":"250,475","size":"100,100"}
 
 
 
-:: Oppose the use of facial recognition technology {"position":"250,475","size":"100,100"}
+:: Sue them for leaking company secrets {"position":"425,1000","size":"100,100"}
+The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
+
+Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
+
+
+:: Support the use of facial recognition technology {"position":"25,475","size":"100,100"}
 
 
 
-:: Request more time to assess the impact of the technology {"position":"375,475","size":"100,100"}
-
-
-
-:: Sue them for leaking company secrets {"position":"400,900","size":"100,100"}
-You sue them for leaking company secrets, only to find out that the group of ex-developers are within their ACM Ethical rights, where they are allowed to break confidentiality as Armstech has marketed itself as a non-lethal technology company.
-
-
-:: Support the use of facial recognition technology {"position":"125,475","size":"100,100"}
-
-
-
-:: There is a meeting to be had (You are working on a project) {"position":"250,350","size":"100,100"}
+:: There is a meeting to be had (You are working on a project) {"position":"100,275","size":"100,100"}
 During today's team meeting, the discussion centered on the latest update to the Pepper Ball Sentry's automatic response system. The non-lethal, automated weapon has implemented facial recognition, with the aim of improving the accuracy of target identification. But this new technology has also raised ethical concerns regarding privacy invasion and surveillance. Meanwhile, some government representatives have proposed the use of secret watchlists to enhance the system's capabilities, which has sparked disagreements within the team about the direction of the use of the technology.
 
 You
@@ -87,17 +146,29 @@ You
 [[Request more time to assess the impact of the technology]]
 
 
-:: You called a meeting (You are a project lead) {"position":"750,350","size":"100,100"}
+:: Use government's secret data {"position":"750,300","size":"100,100"}
+The officials then give you one last request. The Pepper Ball Sentry uses proprietary pepper balls.
+
+The government officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
+
+You decide to:
+
+[[Agree to change the ammo chamber while using secret data]] 
+[[Disagree with changing the ammo chamber while using secret data]]
+
+
+
+:: You called a meeting (You are a project lead) {"position":"800,150","size":"100,100"}
 You are meeting with Government officials, ironing out a lucrative defense contract. They express interest in allowing your Pepper Ball Sentry use facial recognition AI using datasets from secret watchlists.
 
 You
 
-[[Agree to use facial recognition with secret watchlists]]
-[[Agree to use facial recognition but work with public accessible watchlists]]
-[[Disagree with using facial recognition]]
+[[Use government's secret data]]
+[[Create your own dataset]]
+[[Disagree with using facial recognition]] 
 
 
-:: You walk in to work {"position":"525,50","size":"100,100"}
+:: You walk in to work {"position":"550,0","size":"100,100"}
 You work at Armstech, an up and coming defence technology contractor that specializes in non-lethal weaponry used by the military, law enforcement and embassy security. 
 
 Armstech has dabbled in Autonomous Response weaponry and have become popular with their new autonomous Pepper Ball Sentry that shoots non-lethal pepper balls at anyone in its vicinty.
