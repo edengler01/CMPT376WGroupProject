@@ -52,6 +52,9 @@ You
 [[Face the scrutiny and let them talk]]
 
 
+:: Agree with using facial recognition {"position":"0,725","size":"100,100"}
+
+
 
 :: Create your own dataset {"position":"1025,200","size":"100,100"}
 The officals OK your request for using your own data.
@@ -64,7 +67,7 @@ You:
 
 [[Agree to changing the ammo chamber using your own data]]
 
-[[Disagree with changing the ammo chamber while using your own data]] 
+[[Disagree with changing the ammo chamber while using your own data]]
 
 
 :: Disagree with changing the ammo chamber {"position":"975,900","size":"100,100"}
@@ -110,20 +113,19 @@ You respond
 [[Disagree with changing the ammo chamber]]
 
 
-
-
 :: Face the scrutiny and let them talk {"position":"650,1000","size":"100,100"}
 The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
 
-Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.c
+Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
 
 
-:: Oppose the use of facial recognition technology {"position":"150,475","size":"100,100"}
+:: Request more time to assess the impact of the technology {"position":"25,525","size":"100,100"}
+The government approved your request and provided you with the code for the facial recognition AI. You discovered that this AI model is complex and opaque, functioning as an "algorithmic black box," making it difficult to understand its decision-making logic. Therefore, you and your team conducted comprehensive testing on the model. After several rounds of testing, no technical defects were found. 
 
+You represent your team:
 
-
-:: Request more time to assess the impact of the technology {"position":"250,475","size":"100,100"}
-
+[[Agree with using facial recognition]]
+[[Disagree with using facial recognition]]
 
 
 :: Sue them for leaking company secrets {"position":"425,1000","size":"100,100"}
@@ -132,17 +134,14 @@ The developers come out and release that Armstech is secretly developing potenti
 Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
 
 
-:: Support the use of facial recognition technology {"position":"25,475","size":"100,100"}
-
-
-
 :: There is a meeting to be had (You are working on a project) {"position":"100,275","size":"100,100"}
-During today's team meeting, the discussion centered on the latest update to the Pepper Ball Sentry's automatic response system. The non-lethal, automated weapon has implemented facial recognition, with the aim of improving the accuracy of target identification. But this new technology has also raised ethical concerns regarding privacy invasion and surveillance. Meanwhile, some government representatives have proposed the use of secret watchlists to enhance the system's capabilities, which has sparked disagreements within the team about the direction of the use of the technology.
+In today's team meeting, the discussion centered on the latest update to the Pepper Ball Sentry's automatic response system. This non-lethal automated weapon has implemented facial recognition, with the aim of improving the accuracy of target identification. The government offered to use secret watchlists to enhance the system's functionality and offered good remuneration for it.
 
-You
 
-[[Support the use of facial recognition technology]]
-[[Oppose the use of facial recognition technology]]
+You suggest to your team members:
+
+[[Use government's secret data]]
+[[Create your own dataset]]
 [[Request more time to assess the impact of the technology]]
 
 
@@ -157,7 +156,6 @@ You decide to:
 [[Disagree with changing the ammo chamber while using secret data]]
 
 
-
 :: You called a meeting (You are a project lead) {"position":"800,150","size":"100,100"}
 You are meeting with Government officials, ironing out a lucrative defense contract. They express interest in allowing your Pepper Ball Sentry use facial recognition AI using datasets from secret watchlists.
 
@@ -165,7 +163,7 @@ You
 
 [[Use government's secret data]]
 [[Create your own dataset]]
-[[Disagree with using facial recognition]] 
+[[Disagree with using facial recognition]]
 
 
 :: You walk in to work {"position":"550,0","size":"100,100"}
