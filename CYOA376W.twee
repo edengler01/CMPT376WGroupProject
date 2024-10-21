@@ -31,7 +31,7 @@ The government officials are disappointed in not making a modular ammo chamber f
 
 You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision on using secret government data for the Pepper Ball Sentry.
 
-Many of them quit in protest and plan to speak out about Armstech using secret data watchlists..
+Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.
 
 You
 
@@ -52,8 +52,13 @@ You
 [[Face the scrutiny and let them talk]]
 
 
-:: Agree with using facial recognition {"position":"0,725","size":"100,100"}
+:: Agree to use facial recognition, not opposing further government requests until flaws are identified {"position":"200,650","size":"100,100"}
+After the government took the lead in technology development, several original engineers at Armstech resigned in protest due to concerns that the technology could be misused. They worried about that the non-lethal responses had inadequate protections against tampering, fearing that this could threaten personal safety.
 
+Failed to adhere to the following principles:
+1.1 Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing: Armstech's facial recognition system could suppress freedom of speech and association.
+1.4 Be fair and take action not to discriminate: The tool could be used by governments that do not respect to principles of fairness, allowing for abuses of power.
+2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks: Armstech failed to adequately assess the risks associated with its machine learning system, not adhering to the required level of caution.
 
 
 :: Create your own dataset {"position":"1025,200","size":"100,100"}
@@ -84,7 +89,7 @@ The government officials are disappointed in not making a modular ammo chamber f
 
 You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision on using secret government data for the Pepper Ball Sentry.
 
-Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.c
+Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.
 
 You
 
@@ -120,11 +125,11 @@ Armstech becomes known for breaking ECM Ethics and many potential employees and 
 
 
 :: Request more time to assess the impact of the technology {"position":"25,525","size":"100,100"}
-The government approved your request and provided you with the code for the facial recognition AI. You discovered that this AI model is complex and opaque, functioning as an "algorithmic black box," making it difficult to understand its decision-making logic. Therefore, you and your team conducted comprehensive testing on the model. After several rounds of testing, no technical defects were found. 
+The government approved your request, and Armstech provided you with the code for the facial recognition AI. You found that this AI model is complex and not transparent, acting as an "algorithmic black box," which made it challenging to comprehend its decision-making process. Consequently, you and your team conducted comprehensive testing of the model. After several rounds of testing, no technical defects were found.
 
 You represent your team:
 
-[[Agree with using facial recognition]]
+[[Agree to use facial recognition, not opposing further government requests until flaws are identified]]
 [[Disagree with using facial recognition]]
 
 
