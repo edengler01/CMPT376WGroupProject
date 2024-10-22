@@ -18,15 +18,14 @@ You agree to the interview, knowing this is your chance to make a difference. Du
 
 Your words resonate with many viewers, and the interview quickly spreads online. More people join the movement, and public pressure on Armstech intensifies. The government announces that it will conduct a new, independent investigation, citing public concerns and your interview as key factors.
 
-Though you faced criticism and risked your own privacy, your decision to speak out helped bring about real change. Armstech is now under more scrutiny than ever, and there's hope that this will lead to better regulations for the future.
+Though you faced criticism and risked your own privacy, your decision to speak out helped bring about real change. Armstech is now under more scrutiny than ever, and there's hope that this will lead to better regulations in the future.
 
 <span style="color: green;">This outcome reflects adherence to the following principles:</span>
-1.1 Contribute to society and to human well-being: Your advocacy for transparency aims to protect public safety and promote accountability.  
+1.1 Contribute to society and human well-being: Your advocacy for transparency aims to protect public safety and promote accountability.  
 1.4 Be fair and take action not to discriminate: By emphasizing ethical considerations, you help ensure fairness in the use of technology.  
 2.5 Give comprehensive and thorough evaluations: Your call for an independent investigation encourages thorough assessments of Armstech's practices.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
-
 
 
 :: Agree to use facial recognition, not opposing further government requests until flaws are identified {"position":"300,800","size":"100,100"}
@@ -35,36 +34,38 @@ Armstech’s leadership just briefed you on another request from the government;
 As the meeting concludes, you're filled with unease considering the possible threats Pepper Bell Sentry can cause when used with lethal ammo.
 
 
-[[Continue working on the project; after all it’s your job]]
-[[Speak to a supervisor, raising concerns about potential violations and ethical dilemmas]]
-[[The ethical issues are too much for you so you resign immediately]]
+☞ [[Continue working on the project; after all it’s your job]]
+☞ [[Speak to a supervisor, raising concerns about potential violations and ethical dilemmas]]
+☞ [[The ethical issues are too much for you so you resign immediately]]
 
 
 :: Agree to use lethal ammo {"position":"875,850","size":"100,100"}
-The government officials are pleased and grant you and Armstech the lucartive defense contract to work on a lethal version of the Pepper Ball Sentry. 
+The government officials are pleased and grant you and Armstech the lucrative defense contract to work on a lethal version of the Pepper Ball Sentry. 
 
 You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to create a lethal version of the Pepper Ball Sentry.
 
 Many of them quit in protest and plan to speak out about Armstech creating an autonomous weapon that can kill.
 
+
 You
 
-[[Sue them for leaking company secrets]]
-[[Face the scrutiny and let them talk]]
+☞ [[Sue them for leaking company secrets]]
+☞ [[Face the scrutiny and let them talk]]
 
 
 :: Agree to use lethal ammo while using secret data {"position":"575,850","size":"100,100"}
-The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract which is lower than anticipated.
+The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract that is lower than anticipated.
  
 
-You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision on using secret government data for the Pepper Ball Sentry.
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to use secret government data for the Pepper Ball Sentry.
 
 Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.
 
+
 You
 
-[[Sue them for leaking company secrets]]
-[[Face the scrutiny and let them talk]]
+☞ [[Sue them for leaking company secrets]]
+☞ [[Face the scrutiny and let them talk]]
 
 
 :: Clarify the information, even if it draws attention to you {"position":"1525,450","size":"100,100"}
@@ -74,11 +75,11 @@ However, not everyone is pleased. Some accuse you of downplaying the issue, whil
 
 The renewed discussion catches the attention of a major news outlet, which reaches out to you for an interview. You realize that you now have an opportunity to push the conversation forward and demand accountability.
 
+
 You
 
-[[Agree to the interview and speak out about the need for transparency]]
-[[Decline the interview, preferring to stay out of the spotlight]]
-
+☞ [[Agree to the interview and speak out about the need for transparency]]
+☞ [[Decline the interview, preferring to stay out of the spotlight]]
 
 
 :: Close the article and move on {"position":"1975,500","size":"100,100"}
@@ -90,11 +91,10 @@ Life goes on, and the controversy becomes just another forgotten issue, overshad
 Months later, there are rumors that Armstech has secured new government contracts, but no one seems to care anymore.
 
 <span style="color: red;">The following principles were not upheld:</span>
-1.1 Contribute to society and to human well-being: The lack of public pressure allowed unethical practices to continue unchallenged.
+1.1 Contribute to society and human well-being: The lack of public pressure allowed unethical practices to continue unchallenged.
 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts: The investigation did not adequately assess the risks associated with the technology.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
-
 
 
 :: Continue protesting despite the risks {"position":"1275,325","size":"100,100"}
@@ -104,20 +104,19 @@ You decide to keep protesting, even as tensions rise. The protests draw more att
 In the end, your persistence leads to a formal investigation into Armstech’s practices, but at the cost of public backlash and legal consequences for some protesters. You’re left wondering if there could have been a way to achieve the same results without risking so much.
 
 <span style="color: red;">The public’s reaction highlights failures to adhere to the following principles:</span>
-1.1 Contribute to society and to human well-being: The protests, while aiming for ethical change, also caused public unrest.  
+1.1 Contribute to society and human well-being: The protests, while aiming for ethical change, also caused public unrest.  
 1.2 Avoid harm: The clashes with authorities resulted in harm to both protesters and bystanders.  
 1.4 Be fair and take action not to discriminate: The effectiveness of the protests was questioned, highlighting the complexities of public dissent.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
 
-
 :: Continue working and try to improve the system from within {"position":"50,1075","size":"100,100"}
 <h2>Game Over - Unhappy Ending<h2/>
-After the government took the lead in technology development, several original engineers at Armstech resigned in protest due to concerns that the technology could be misused. They worried about that the non-lethal responses had inadequate protections against tampering, fearing that this could threaten personal safety.
+After the government took the lead in technology development, several original engineers at Armstech resigned in protest due to concerns that the technology could be misused. They worried that the non-lethal responses had inadequate protections against tampering, fearing that this could threaten personal safety.
 
 <span style="color: red;">Failed to adhere to the following principles:</span>
-1.1 Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing: Armstech's facial recognition system could suppress freedom of speech and association.
+1.1 Contribute to society and human well-being, acknowledging that all people are stakeholders in computing: Armstech's facial recognition system could suppress freedom of speech and association.
 1.4 Be fair and take action not to discriminate: The tool could be used by governments that do not respect to principles of fairness, allowing for abuses of power.
 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks: Armstech failed to adequately assess the risks associated with its machine learning system, not adhering to the required level of caution.
 
@@ -125,30 +124,31 @@ After the government took the lead in technology development, several original e
 
 
 :: Continue working on the project, hoping the safeguards help {"position":"225,1175","size":"100,100"}
-Some time passes, the project advances and you've contributed to the development of the Pepper Ball Sentry using facial recognition system and lethal responses. One day, you learn that the system was used in a foreign conflict and lead to many casualties and deaths of hundreds of civilians who may not have posed a threat. This is time, the number the of individuals harmed is much higher and gets you thinking that the safeguards weren’t guaranteeing much security. You're wondering about your ethical values and having to contribute to a technology that has posed so much civilian harm. You can't help but feel responsible for these serious outcomes.
+Some time passes, the project advances and you've contributed to the development of the Pepper Ball Sentry using facial recognition and lethal responses. One day, you learn that the system was used in a foreign conflict and lead to many casualties and deaths of hundreds of civilians who may not have posed a threat. This time, the number the of individuals harmed is much higher and leaves you thinking that the safeguards weren’t guaranteeing much security. You're wondering about your ethical values and whether or not you're willing to contribute to a technology that has posed so much civilian harm. You can't help but feel responsible for these serious outcomes.
 
 
-[[Continue working and try to improve the system from within]]
-[[Think about resigning]]
+☞ [[Continue working and try to improve the system from within]]
+☞ [[Think about resigning]]
 
 
 :: Continue working on the project; after all it’s your job {"position":"225,975","size":"100,100"}
-As months pass, the project advances and you've contributed to the development of the Pepper Ball Sentry using facial recognition system and lethal responses. One day, you hear that the system was used at a peaceful protest. A few innocent individuals protesting were injured or possibly dead while the system targeted a particular threat within them. Even though only a few individuals were harmed for a particular threat that could have been armed and caused a wider damage, you can't help but feel responsible for the outcome.
+As months pass, the project advances and you've contributed to the development of the Pepper Ball Sentry using facial recognition and lethal responses. One day, you hear that the system was used at a peaceful protest. A few innocent individuals protesting were injured or possibly dead while the system was targeting a particular threat within the crowd. Even though only a few individuals were harmed over a particular threat that could have been armed and caused wider damage, you can't help but feel responsible for the outcome.
 
 
-[[Speak to a supervisor, raising concerns about potential violations and ethical dilemmas]]
-[[Continue working and try to improve the system from within]]
-[[The ethical issues are too much for you so you resign immediately]]
+☞ [[Speak to a supervisor, raising concerns about potential violations and ethical dilemmas]]
+☞ [[Continue working and try to improve the system from within]]
+☞ [[The ethical issues are too much for you so you resign immediately]]
 
 
 :: Create your own dataset {"position":"1050,525","size":"100,100"}
-Government officials respect your choice, but also emphasize that the government will reduce funding for the project if you use your own database. You realize that, given the company's poor revenue situation in recent years, developing and deploying a database independently can significantly weaken the company's financial position and may even lead to its collapse.
+Government officials respect your choice but also emphasize that the government will reduce funding for the project if you use your own database. You realize that, given the company's poor revenue situation in recent years, developing and deploying a database independently can significantly weaken the company's financial position and may even lead to its collapse.
+
 
 You decide
 
-[[Stick to using your own database]]
-[[Seek negotiations]]
-[[Use government's secret data]]
+☞ [[Stick to using your own database]]
+☞ [[Seek negotiations]]
+☞ [[Use government's secret data]]
 
 
 :: Decline the interview, preferring to stay out of the spotlight {"position":"1625,625","size":"100,100"}
@@ -167,38 +167,38 @@ Armstech manages to deflect some of the criticism by highlighting smaller inaccu
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
 
-
 :: Disagree to use lethal ammo {"position":"1050,925","size":"100,100"}
 <h2>Game Over - Positive Ending<h2/>
 The officials are disappointed, but they still offer you a reasonable defense contract to work on a non-lethal Pepper Ball sentry using your own datasets. 
 
-You decide to call a meeting with your team and announce the news. The developers are happy that Armstech has gone with non-lethal and even with decided how to create their own data sets for facial recognition.
+You decide to call a meeting with your team and announce the news. The developers are happy that Armstech has gone with non-lethal and even decided how to create their own data sets for facial recognition.
 
 <span style="color: green;">The devs appreciate that you followed:</span>
-1.2 Avoid Harm: Avoiding the potential of lethal modifications to the Sentry
+1.2 Avoid Harm: Avoiding the potential of lethal modifications to the Sentry.
 1.7 Honor confidentiality: Not using secret government data collected.
-2.5 Comprehensive & through evaulations of systems and impacts: By creating their own datasets and not allowing modularization of the Sentry, evaluation is through and controlled by Armstech.
+2.5 Comprehensive & thorough evaluations of systems and impacts: By creating their own datasets and not allowing modularization of the Sentry, evaluation is through and controlled by Armstech.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
 
 :: Disagree to use lethal ammo while using secret data {"position":"725,850","size":"100,100"}
-The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract which is lower than anticipated.
+The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract that is lower than anticipated.
  
 
-You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision on using secret government data for the Pepper Ball Sentry.
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to use secret government data for the Pepper Ball Sentry.
 
 Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.
 
+
 You
 
-[[Sue them for leaking company secrets]]
-[[Face the scrutiny and let them talk]]
+☞ [[Sue them for leaking company secrets]]
+☞ [[Face the scrutiny and let them talk]]
 
 
 :: Disagree with using facial recognition {"position":"525,625","size":"100,100"}
-[[Speak to a supervisor, raising concerns about potential violations and ethical dilemmas]]
-[[The ethical issues are too much for you so you resign immediately]]
+☞ [[Speak to a supervisor, raising concerns about potential violations and ethical dilemmas]]
+☞ [[The ethical issues are too much for you so you resign immediately]]
 
 
 :: Encourage the movement to stay strong and keep pushing for change {"position":"1950,625","size":"100,100"}
@@ -217,51 +217,50 @@ Despite this, the protests grow larger, and more petitions are signed. The gover
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
 
-
 :: Experience the company perspective {"position":"625,250","size":"100,100"}
 You work at Armstech, an up-and-coming international defense technology contractor specializing in autonomous vehicles and surveillance systems.
 
 As an early pioneer in the industry, Armstech established itself as a vendor of choice for both military and law enforcement applications, with a focus on passive systems, such as bomb-defusing robots and crowd-monitoring drones. These products have been used in conflict zones, non-violent protests, and even embassy security systems.
 
-Armstech has dabbled in Autonomous Response weaponry and has become popular with their new autonomous Pepper Ball Sentry that shoots non-lethal pepper balls at anyone in its vicinity.
+Armstech has dabbled in Autonomous Response weaponry and has become popular with its new autonomous Pepper Ball Sentry that shoots non-lethal pepper balls at anyone in its vicinity.
 
 
 You walk in to work and remember that
 
-[[You called a meeting (You are a project lead)]]
-[[There is a meeting to be had (You are an engineer working on a project)]]
+☞ [[You called a meeting (You are a project lead)]]
+☞ [[There is a meeting to be had (You are an engineer working on a project)]]
 
 
 :: Explore the public perspective {"position":"1400,0","size":"100,100"}
-Late at night, a group of former engineers from Armstech decides to break their silence. They gather crucial documents and evidence, and anonymously leak them to several major news outlets. 
+Late at night, a group of former engineers from Armstech decides to break their silence. They gather crucial documents, and evidence and anonymously leak them to several major news outlets. 
 
 The next morning, the headlines read:
 "Whistleblowers Expose Armstech's Secret: Lethal Autonomous Weapons in Development."
 
-The articles describe how Armstech has been secretly developing a controversial new weapon system that uses facial recognition technology to target individuals. The engineers reveal that the project bypasses ethical guidelines, and they felt compelled to speak out. Within hours, the news spreads like wildfire across social media, and people everywhere start reacting.
+The articles describe how Armstech has been secretly developing a controversial lethal weapon system that uses facial recognition technology to target individuals. The engineers revealed that the project bypasses ethical guidelines, and they felt compelled to speak out. Within hours, the news spreads like wildfire across social media, and people everywhere start reacting.
+
 
 As a member of the public, you
 
-[[Express outrage and join a protest against Armstech]]
-[[Share the news on social media to spread awareness]]
-[[Ignore the controversy and move on with your day]]
-
+☞ [[Express outrage and join a protest against Armstech]]
+☞ [[Share the news on social media to spread awareness]]
+☞ [[Ignore the controversy and move on with your day]]
 
 
 :: Express outrage and join a protest against Armstech {"position":"1400,200","size":"100,100"}
 Outraged by the news, you join a protest against Armstech. The protests spread quickly, with people demanding an end to the development of lethal autonomous weapons. One major concern is the use of **facial recognition technology**, which critics say violates privacy and could lead to biased targeting.
 
 As the protests grow, tensions rise, and clashes with law enforcement occur. Some criticize the protests for causing disruption, while others believe they are necessary to address the dangers of this technology.
-
+
+
 You
 
-[[Continue protesting despite the risks]]
-[[Step back and encourage dialogue to de-escalate the situation]]
-
+☞ [[Continue protesting despite the risks]]
+☞ [[Step back and encourage dialogue to de-escalate the situation]]
 
 
 :: Face the scrutiny and let them talk {"position":"825,1125","size":"100,100"}
-The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
+The developers came out and released that Armstech is secretly developing potentially lethal autonomous weaponry. The company is forced to come out and due to certain circumstances, they have to change how they approach tech.
 
 Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
 
@@ -275,11 +274,10 @@ With little public pressure, the government wraps up its investigation quickly, 
 Months later, Armstech quietly resumes its projects, securing new government contracts without any significant backlash. The concerns raised by the whistleblowers are mostly forgotten, and the potential risks of the technology continue to loom. Although no major incidents have occurred yet, the possibility remains, with little to prevent it.
 
 <span style="color: red;">The following principles were not upheld:</span>
-1.1 Contribute to society and to human well-being: Ignoring the issue allowed unethical practices to continue.
+1.1 Contribute to society and human well-being: Ignoring the issue allowed unethical practices to continue.
 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts: The investigation was inadequate and failed to address the potential risks associated with Armstech's technology.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
-
 
 
 :: Ignore the controversy and move on with your day {"position":"2000,225","size":"100,100"}
@@ -289,9 +287,9 @@ Over the next few days, the story continues to unfold. More reports surface, but
 
 Without strong public pressure, Armstech keeps a low profile and continues its projects. The government announces a brief investigation, but it seems more like a formality than a real attempt to address the issue. After a few weeks, the media coverage fades, and the controversy becomes just another forgotten headline.
 
-[[Read a follow-up article about the investigation]]
-[[Ignore it and move on with your day]]
 
+☞ [[Read a follow-up article about the investigation]]
+☞ [[Ignore it and move on with your day]]
 
 
 :: Learn more about the project members {"position":"850,100","size":"100,100"}
@@ -299,11 +297,12 @@ Team Members and Roles:
  <ul>
   <li>Erik Dengler - Rule1</li>
   <li>Kunlong He - Creating hyperlinks, writing different endings to the branches</li>
-  <li>Kyana Sohangar - Rule3</li>
+  <li>Kyana Sohangar - Rule3, style consistency</li>
   <li>Seongwoon Lee - writing public perspective</li>
 </ul>
 
-[[Start the game]]
+
+☞ [[Start the game]]
 
 
 :: Let the conversation grow, focusing on action over accuracy {"position":"1675,450","size":"100,100"}
@@ -313,11 +312,11 @@ However, the chaotic nature of the discussion means that not all of the claims a
 
 You see that the movement is at a turning point. You can try to step in now to correct the misinformation, but it may be too late. Or you can encourage the movement to stay strong, hoping that public pressure will still lead to action against Armstech.
 
+
 You
 
-[[Step in now to correct the misinformation and regain credibility]]
-[[Encourage the movement to stay strong and keep pushing for change]]
-
+☞ [[Step in now to correct the misinformation and regain credibility]]
+☞ [[Encourage the movement to stay strong and keep pushing for change]]
 
 
 :: Read a follow-up article about the investigation {"position":"2025,350","size":"100,100"}
@@ -325,15 +324,15 @@ You click on a follow-up article about the investigation into Armstech. The head
 
 "Government Concludes Armstech Investigation: No Major Violations Found."
 
-The article explains that the investigation was brief and primarily based on internal reports provided by Armstech. Despite the initial concerns raised by the whistleblowers, the government states there wasn't enough evidence to take further action. Critics argue that the investigation was too shallow and may have been influenced by Armstech's connections.
+The article explains that the investigation was brief and primarily based on internal reports provided by Armstech. Despite the initial concerns raised by the whistleblowers, the government stated there wasn't enough evidence to take further action. Critics argue that the investigation was too shallow and may have been influenced by Armstech's connections.
 
 In the comment section, opinions are divided. Some believe Armstech was unfairly targeted, while others are frustrated by the lack of accountability. You feel a sense of unease as the story fades from the headlines.
 
+
 You
 
-[[Share your thoughts on social media, reigniting the conversation]]
-[[Close the article and move on]]
-
+☞ [[Share your thoughts on social media, reigniting the conversation]]
+☞ [[Close the article and move on]]
 
 
 :: Request more time to assess the impact of the technology {"position":"100,525","size":"100,100"}
@@ -342,68 +341,72 @@ The government approved your request, and Armstech provided you with the code fo
 
 You
 
-[[Agree to use facial recognition, not opposing further government requests until flaws are identified]]
-[[Disagree with using facial recognition]]
+☞ [[Agree to use facial recognition, not opposing further government requests until flaws are identified]]
+☞ [[Disagree with using facial recognition]]
 
 
 :: Seek negotiations {"position":"975,700","size":"100,100"}
-After intense negotiations with government officials, you emphasized Armstech's expertise and authority in the international defense technology area, noting that if the government cuts funding for Armstech, it will not have access to the world's top technology. Your arguments eventually convinced the government officials, they agreed to provide more financial support. However, the officials made an additional request that uses proprietary pepper balls, and they officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
+After intense negotiations with government officials, you emphasized Armstech's expertise and authority in the international defense technology area, noting that if the government cuts funding for Armstech, it will not have access to the world's top technology. Your arguments eventually convinced the government officials, and they agreed to provide more financial support. However, the officials made an additional request to use proprietary pepper balls and asked if you could modify the ammo chamber to use 3rd party ammo, including lethal types.
 
-You:
 
-[[Agree to use lethal ammo]]
-[[Disagree to use lethal ammo]]
+You
+
+☞ [[Agree to use lethal ammo]]
+☞ [[Disagree to use lethal ammo]]
 
 
 :: Share the news on social media to spread awareness {"position":"1700,225","size":"100,100"}
 You post your thoughts on social media, criticizing the shallow investigation into Armstech. The hashtag #DemandTransparency begins trending, and the issue gains renewed attention. 
 
-As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts and making baseless claims. This adds confusion but also fuels more public outcry.
+As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts, and making baseless claims. This adds confusion but also fuels more public outcry.
 
 You can step in to clarify the facts, even if it means attracting unwanted attention. Or you can let the debate grow, knowing it may push for action, despite the spread of misleading information.
 
-[[Clarify the information, even if it draws attention to you]]
-[[Let the conversation grow, focusing on action over accuracy]]
 
+☞ [[Clarify the information, even if it draws attention to you]]
+☞ [[Let the conversation grow, focusing on action over accuracy]]
 
 
 :: Share your thoughts on social media, reigniting the conversation {"position":"1800,325","size":"100,100"}
 You post your thoughts on social media, criticizing the shallow investigation into Armstech. The hashtag #DemandTransparency begins trending, and the issue gains renewed attention. 
 
-As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts and making baseless claims. This adds confusion but also fuels more public outcry.
+As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts, and making baseless claims. This adds confusion but also fuels more public outcry.
 
 You can step in to clarify the facts, even if it means attracting unwanted attention. Or you can let the debate grow, knowing it may push for action, despite the spread of misleading information.
 
+
 You
 
-[[Clarify the information, even if it draws attention to you]]
-[[Let the conversation grow, focusing on action over accuracy]]
-
+☞ [[Clarify the information, even if it draws attention to you]]
+☞ [[Let the conversation grow, focusing on action over accuracy]]
 
 
 :: Speak to a supervisor, raising concerns about potential violations and ethical dilemmas {"position":"400,1075","size":"100,100"}
 After speaking to Armstech's leadership, they are not pleased with you questioning their business and moral decisions but will consider your concerns. 
 
-Leadership explains that while they understand the risks, they see this as a great opportunity for the growth of the company and the potential contracts they can receive from multiple governments are too lucrative to ignore. They decide to proceed with the new applications but adding safeguards to the system to ensure minimum violations and casualties.
+Leadership explains that while they understand the risks, they see this advancement as a great opportunity for the growth of the company and the potential contracts they can receive from multiple governments are too lucrative to ignore. They decide to proceed with the new applications but add safeguards to the system to ensure minimum violations and casualties.
+
 
 You're left wondering if the safeguards are good enough or if there's something more you can do.
 
-[[Continue working on the project, hoping the safeguards help]]
-[[Think about resigning]]
+☞ [[Continue working on the project, hoping the safeguards help]]
+☞ [[Think about resigning]]
 
 
 :: Start Your Ethics Journey: Autonomous Active Response Weapons {"position":"575,0","size":"100,100"}
 This is a choose-your-own-adventure (CYOA) game based on a case study of <a href="https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-response-weaponry/">Autonomous Active Response Weapons</a> from the <a href="https://ethics.acm.org/integrity-project/case-studies/">ACM Code of Ethics. </a>
 
-[[Learn more about the project members]]
-[[Start the game]]
+
+☞ [[Learn more about the project members]]
+☞ [[Start the game]]
 
 
 :: Start the game {"position":"300,25","size":"100,100"}
 You are faced with a crucial decision: will you explore the inner workings of Armstech as an employee, or will you take a step back and see the implications of their technology from the public's perspective?
 
-[[Experience the company perspective]]
-[[Explore the public perspective]]
+
+☞ [[Experience the company perspective]]
+☞ [[Explore the public perspective]]
 
 
 :: Step back and encourage dialogue to de-escalate the situation {"position":"1475,325","size":"100,100"}
@@ -413,34 +416,32 @@ You decide to step back from the protests and advocate for dialogue. A series of
 However, without the strong pressure from protests, the dialogue moves slowly, and it’s unclear if real change will happen. You wonder if stepping back was the right choice, or if stronger actions were necessary to push for accountability.
 
 <span style="color: red;">This outcome reflects challenges in adhering to the following principles:</span>
-1.1 Contribute to society and to human well-being: While advocating for dialogue, the urgency of the situation may have diminished.  
+1.1 Contribute to society and human well-being: While advocating for dialogue, the urgency of the situation may have diminished.  
 1.2 Avoid harm: Slower dialogue may allow for harmful practices to continue without scrutiny.  
 2.5 Give comprehensive and thorough evaluations: The need for immediate action is overshadowed by lengthy discussions, risking oversight.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
 
-
 :: Step in now to correct the misinformation and regain credibility {"position":"1775,625","size":"100,100"}
 <h2>Game Over - Restoring Credibility</h2>
 You decide to step in and address the misinformation. You share a post clarifying the facts, urging others to be cautious about spreading unverified claims. Your message is shared widely, and some people thank you for bringing clarity to the situation.
 
-However, not everyone is receptive. Critics accuse you of trying to weaken the movement, and some even claim you're siding with Armstech. The conversation becomes heated, but eventually, your efforts help regain some credibility for the movement. News outlets pick up on your clarifications, prompting a more balanced discussion.
+However, not everyone is receptive. Critics accuse you of trying to weaken the movement, and some even claim you're siding with Armstech. The conversation becomes heated, but eventually, your efforts help regain some credibility for the movement. News outlets picked up on your clarifications, prompting a more balanced discussion.
 
 Armstech issues another statement, acknowledging the ongoing concerns and promising to cooperate with further investigations. Your decision helped refocus the movement, but it also showed how difficult it can be to maintain integrity in the face of controversy.
 
 <span style="color: green;">This outcome reflects adherence to the following principles:</span>
-1.1 Contribute to society and to human well-being: Your clarification aims to protect public safety and promote accountability.  
+1.1 Contribute to society and human well-being: Your clarification aims to protect public safety and promote accountability.  
 1.3 Be honest and trustworthy: By correcting misinformation, you uphold the value of honesty in the movement.  
 2.5 Give comprehensive and thorough evaluations: Your efforts help ensure that the movement's claims are backed by accurate information.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
 
-
 :: Stick to using your own database {"position":"1200,750","size":"100,100"}
 <h2>Game Over - Bittersweet Ending<h2/>
-The government cut funding for the project and canceled the development of many features. Under tremendous financial pressure, the company still create and use its own database. However, due to the project's costs far exceeding expectations, the company's financial situation remained poor in the following years.
+The government cut funding for the project and canceled the development of many features. Under tremendous financial pressure, the company still creates and uses its own database. However, due to the project's costs far exceeding expectations, the company's financial situation remained poor in the following years.
 
 <span style="color: green;">As a project leader, thank you for adhering to the following principle</span>:
 1.6 Respect privacy: Armstech is committed to minimal data collection, ensuring transparency and user consent.
@@ -449,7 +450,7 @@ The government cut funding for the project and canceled the development of many 
 
 
 :: Sue them for leaking company secrets {"position":"625,1125","size":"100,100"}
-The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
+The developers came out and released that Armstech is secretly developing potentially lethal autonomous weaponry. The company is forced to come out and due to certain circumstances, they have to change how they approach tech.
 
 Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
 
@@ -462,12 +463,12 @@ You leave the company, thinking that it is impossible to make changes from withi
 During today's team meeting, the discussion focused on the latest updates to the Pepper Ball Sentry automatic response system. A government official suggested adding facial recognition capabilities to this non-lethal automated weapon to enhance target identification accuracy. The official also proposed using a secret watchlist to accelerate the system's learning, offering substantial compensation for this enhancement.
 
 
-An an egineer on the team, you
+As an egineer on the team, you
 
-[[Use government's secret data]]
-[[Create your own dataset]]
-[[Request more time to assess the impact of the technology]]
-[[Disagree with using facial recognition]]
+☞ [[Use government's secret data]]
+☞ [[Create your own dataset]]
+☞ [[Request more time to assess the impact of the technology]]
+☞ [[Disagree with using facial recognition]]
 
 
 :: Think about resigning {"position":"250,1350","size":"100,100"}
@@ -480,18 +481,18 @@ The officials then give you one last request. The Pepper Ball Sentry uses propri
 The government officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
 
 
-You decide to:
+You decide to
 
-[[Agree to use lethal ammo while using secret data]] 
-[[Disagree to use lethal ammo while using secret data]]
+☞ [[Agree to use lethal ammo while using secret data]] 
+☞ [[Disagree to use lethal ammo while using secret data]]
 
 
 :: You called a meeting (You are a project lead) {"position":"1025,225","size":"100,100"}
-You are meeting with Government officials, ironing out a lucrative defense contract. They express interest in allowing your Pepper Ball Sentry add facial recognition AI and use datasets from secret watchlists to accelerate the system's learning.
+You are meeting with Government officials, ironing out a lucrative defense contract. They express interest in allowing your Pepper Ball Sentry to add facial recognition AI and use datasets from secret watchlists to accelerate the system's learning.
 
 
 You
 
-[[Use government's secret data]]
-[[Create your own dataset]]
-[[Disagree with using facial recognition]]
+☞ [[Use government's secret data]]
+☞ [[Create your own dataset]]
+☞ [[Disagree with using facial recognition]]
