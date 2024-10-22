@@ -84,8 +84,8 @@ Government officials respect your choice, but also emphasize that the government
 
 You decide
 
-[[Stick to Using Your Own Database]]
-[[seek negotiations]]
+[[Stick to using your own database]]
+[[Seek negotiations]]
 [[Use government's secret data]]
 
 
@@ -132,7 +132,7 @@ Armstech becomes known for breaking ECM Ethics and many potential employees and 
 Team Members and Roles:
  <ul>
   <li>Erik Dengler - Rule1</li>
-  <li>Kunlong He - Rule2</li>
+  <li>Kunlong He - Creating hyperlinks, writing different endings to the branches</li>
   <li>Kyana Sohangar - Rule3</li>
   <li>Seongwoon Lee - Rule4</li>
 </ul>
@@ -148,6 +148,15 @@ You
 
 [[Agree to use facial recognition, not opposing further government requests until flaws are identified]]
 [[Disagree with using facial recognition]]
+
+
+:: Seek negotiations {"position":"975,700","size":"100,100"}
+After intense negotiations with government officials, you emphasized Armstech's expertise and authority in the international defense technology area, noting that if the government cuts funding for Armstech, it will not have access to the world's top technology. Your arguments eventually convinced the government officials, they agreed to provide more financial support. However, the officials made an additional request that uses proprietary pepper balls, and they officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
+
+You:
+
+[[Agree to use lethal ammo]]
+[[Disagree to use lethal ammo]]
 
 
 :: Speak to a supervisor, raising concerns about potential violations and ethical dilemmas {"position":"400,1075","size":"100,100"}
@@ -182,7 +191,7 @@ You walk in to work and remember that
 [[There is a meeting to be had (You are an engineer working on a project)]]
 
 
-:: Stick to Using Your Own Database {"position":"1200,750","size":"100,100"}
+:: Stick to using your own database {"position":"1200,750","size":"100,100"}
 <h2>Game Over - Bittersweet Ending<h2/>
 The government cut funding for the project and canceled the development of many features. Under tremendous financial pressure, the company still create and use its own database. However, due to the project's costs far exceeding expectations, the company's financial situation remained poor in the following years.
 
@@ -239,12 +248,3 @@ You
 [[Use government's secret data]]
 [[Create your own dataset]]
 [[Disagree with using facial recognition]]
-
-
-:: seek negotiations {"position":"975,700","size":"100,100"}
-After intense negotiations with government officials, you emphasized Armstech's expertise and authority in the international defense technology area, noting that if the government cuts funding for Armstech, it will not have access to the world's top technology. Your arguments eventually convinced the government officials, they agreed to provide more financial support. However, the officials made an additional request that uses proprietary pepper balls, and they officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
-
-You:
-
-[[Agree to use lethal ammo]]
-[[Disagree to use lethal ammo]]
