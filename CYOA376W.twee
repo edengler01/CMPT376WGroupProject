@@ -12,6 +12,23 @@ CYOA376W
 }
 
 
+:: Agree to the interview and speak out about the need for transparency {"position":"1400,625","size":"100,100"}
+<h2>Game Over - A Voice for Change</h2>
+You agree to the interview, knowing this is your chance to make a difference. During the interview, you speak candidly about the issues with Armstech's practices and emphasize the importance of transparency and accountability in developing autonomous technology.
+
+Your words resonate with many viewers, and the interview quickly spreads online. More people join the movement, and public pressure on Armstech intensifies. The government announces that it will conduct a new, independent investigation, citing public concerns and your interview as key factors.
+
+Though you faced criticism and risked your own privacy, your decision to speak out helped bring about real change. Armstech is now under more scrutiny than ever, and there's hope that this will lead to better regulations for the future.
+
+<span style="color: green;">This outcome reflects adherence to the following principles:</span>
+1.1 Contribute to society and to human well-being: Your advocacy for transparency aims to protect public safety and promote accountability.  
+1.4 Be fair and take action not to discriminate: By emphasizing ethical considerations, you help ensure fairness in the use of technology.  
+2.5 Give comprehensive and thorough evaluations: Your call for an independent investigation encourages thorough assessments of Armstech's practices.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
+
+
 :: Agree to use facial recognition, not opposing further government requests until flaws are identified {"position":"300,800","size":"100,100"}
 Armstech’s leadership just briefed you on another request from the government; they requested an expansion of the automated responses in Pepper Bell Sentry to include lethal responses and ammo. This includes autonomous targeting of individuals using facial recognition features, even in situations where immediate danger is not opposed. 
 
@@ -48,6 +65,51 @@ You
 
 [[Sue them for leaking company secrets]]
 [[Face the scrutiny and let them talk]]
+
+
+:: Clarify the information, even if it draws attention to you {"position":"1525,450","size":"100,100"}
+You decide to step in and clarify the facts. You post a detailed message on social media, correcting the misinformation and urging others to share accurate information. Your post quickly gains traction, with many people appreciating your effort to bring clarity. 
+
+However, not everyone is pleased. Some accuse you of downplaying the issue, while others question your motives. Despite the backlash, your actions help calm the chaos, and the conversation becomes more focused on the real concerns about Armstech's practices.
+
+The renewed discussion catches the attention of a major news outlet, which reaches out to you for an interview. You realize that you now have an opportunity to push the conversation forward and demand accountability.
+
+You
+
+[[Agree to the interview and speak out about the need for transparency]]
+[[Decline the interview, preferring to stay out of the spotlight]]
+
+
+
+:: Close the article and move on {"position":"1975,500","size":"100,100"}
+<h2>Game Over - Forgotten Ending</h2>
+You decide to close the article, feeling a mix of frustration and resignation. It seems like Armstech has managed to avoid any real consequences, and the story quickly fades from the headlines.
+
+Life goes on, and the controversy becomes just another forgotten issue, overshadowed by newer news. Without strong public pressure, Armstech quietly resumes its projects, and any hopes of accountability or change disappear. 
+
+Months later, there are rumors that Armstech has secured new government contracts, but no one seems to care anymore.
+
+<span style="color: red;">The following principles were not upheld:</span>
+1.1 Contribute to society and to human well-being: The lack of public pressure allowed unethical practices to continue unchallenged.
+2.5 Give comprehensive and thorough evaluations of computer systems and their impacts: The investigation did not adequately assess the risks associated with the technology.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
+
+
+:: Continue protesting despite the risks {"position":"1275,325","size":"100,100"}
+<h2>Game Over - Tension and Backlash</h2>
+You decide to keep protesting, even as tensions rise. The protests draw more attention, forcing Armstech to address the ethical concerns. However, as the protests grow, so do the risks. Clashes with authorities increase, and some members of the public start to question whether the disruptions are justified.
+
+In the end, your persistence leads to a formal investigation into Armstech’s practices, but at the cost of public backlash and legal consequences for some protesters. You’re left wondering if there could have been a way to achieve the same results without risking so much.
+
+<span style="color: red;">The public’s reaction highlights failures to adhere to the following principles:</span>
+1.1 Contribute to society and to human well-being: The protests, while aiming for ethical change, also caused public unrest.  
+1.2 Avoid harm: The clashes with authorities resulted in harm to both protesters and bystanders.  
+1.4 Be fair and take action not to discriminate: The effectiveness of the protests was questioned, highlighting the complexities of public dissent.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
 
 
 :: Continue working and try to improve the system from within {"position":"50,1075","size":"100,100"}
@@ -89,6 +151,23 @@ You decide
 [[Use government's secret data]]
 
 
+:: Decline the interview, preferring to stay out of the spotlight {"position":"1625,625","size":"100,100"}
+<h2>Game Over - A Missed Opportunity</h2>
+You politely decline the interview, choosing to stay out of the public eye. Instead, you continue to share accurate information on social media, encouraging others to keep the conversation focused and truthful.
+
+Your decision to stay behind the scenes means you avoid some of the backlash, but it also limits your influence. The movement continues to grow, but without a clear, vocal advocate, the message is less direct.
+
+Armstech manages to deflect some of the criticism by highlighting smaller inaccuracies, but the movement doesn’t die down completely. Though your actions helped, it feels like a missed opportunity for stronger change.
+
+<span style="color: red;">This outcome reflects challenges in adhering to the following principles:</span>
+1.2 Avoid harm: By not being a vocal advocate, you may inadvertently allow harmful practices to continue without sufficient scrutiny.  
+1.3 Be honest and trustworthy: While you shared accurate information, the lack of a strong public presence may lead to misunderstandings.  
+2.5 Give comprehensive and thorough evaluations: Without a leader to push for thorough assessments, the movement's impact may be diminished.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
+
+
 :: Disagree to use lethal ammo {"position":"1050,925","size":"100,100"}
 <h2>Game Over - Positive Ending<h2/>
 The officials are disappointed, but they still offer you a reasonable defense contract to work on a non-lethal Pepper Ball sentry using your own datasets. 
@@ -122,6 +201,23 @@ You
 [[The ethical issues are too much for you so you resign immediately]]
 
 
+:: Encourage the movement to stay strong and keep pushing for change {"position":"1950,625","size":"100,100"}
+<h2>Game Over - The Dangers of Misinformation</h2>
+You decide to let the conversation grow, encouraging the movement to stay strong despite the misinformation. You share posts that focus on the bigger issues, urging people to keep the pressure on Armstech and demand accountability.
+
+The movement continues to gain momentum, but the spread of misinformation leads to confusion and mixed messages. Armstech takes advantage of this, releasing statements that discredit some of the exaggerated claims, making it harder for the public to trust the movement.
+
+Despite this, the protests grow larger, and more petitions are signed. The government announces a new, more thorough investigation. Your decision helped keep the pressure on Armstech, but the movement's lack of clear messaging may have weakened its overall impact.
+
+<span style="color: red;">This outcome reflects challenges in adhering to the following principles:</span>
+1.2 Avoid harm: The misinformation may inadvertently allow harmful practices to continue without sufficient scrutiny.  
+1.4 Be fair and take action not to discriminate: Mixed messages may lead to public distrust and undermine the movement's credibility.  
+2.5 Give comprehensive and thorough evaluations: Without clear messaging, the movement's impact may be diminished.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
+
+
 :: Experience the company perspective {"position":"625,250","size":"100,100"}
 You work at Armstech, an up-and-coming international defense technology contractor specializing in autonomous vehicles and surveillance systems.
 
@@ -136,7 +232,31 @@ You walk in to work and remember that
 [[There is a meeting to be had (You are an engineer working on a project)]]
 
 
-:: Explore the public perspective {"position":"100,200","size":"100,100"}
+:: Explore the public perspective {"position":"1400,0","size":"100,100"}
+Late at night, a group of former engineers from Armstech decides to break their silence. They gather crucial documents and evidence, and anonymously leak them to several major news outlets. 
+
+The next morning, the headlines read:
+"Whistleblowers Expose Armstech's Secret: Lethal Autonomous Weapons in Development."
+
+The articles describe how Armstech has been secretly developing a controversial new weapon system that uses facial recognition technology to target individuals. The engineers reveal that the project bypasses ethical guidelines, and they felt compelled to speak out. Within hours, the news spreads like wildfire across social media, and people everywhere start reacting.
+
+As a member of the public, you
+
+[[Express outrage and join a protest against Armstech]]
+[[Share the news on social media to spread awareness]]
+[[Ignore the controversy and move on with your day]]
+
+
+
+:: Express outrage and join a protest against Armstech {"position":"1400,200","size":"100,100"}
+Outraged by the news, you join a protest against Armstech. The protests spread quickly, with people demanding an end to the development of lethal autonomous weapons. One major concern is the use of **facial recognition technology**, which critics say violates privacy and could lead to biased targeting.
+
+As the protests grow, tensions rise, and clashes with law enforcement occur. Some criticize the protests for causing disruption, while others believe they are necessary to address the dangers of this technology.
+
+You
+
+[[Continue protesting despite the risks]]
+[[Step back and encourage dialogue to de-escalate the situation]]
 
 
 
@@ -146,16 +266,74 @@ The developers come out and release that Armstech is secretly developing potenti
 Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
 
 
+:: Ignore it and move on with your day {"position":"2175,350","size":"100,100"}
+<h2>Game Over - Forgotten Ending</h2>
+You decide to ignore the story and move on. Over time, the controversy surrounding Armstech fades, replaced by newer headlines that capture the public's attention. 
+
+With little public pressure, the government wraps up its investigation quickly, stating there wasn't enough evidence to take action. Critics argue that the investigation was superficial, but the news cycle has already moved on, and so have most people.
+
+Months later, Armstech quietly resumes its projects, securing new government contracts without any significant backlash. The concerns raised by the whistleblowers are mostly forgotten, and the potential risks of the technology continue to loom. Although no major incidents have occurred yet, the possibility remains, with little to prevent it.
+
+<span style="color: red;">The following principles were not upheld:</span>
+1.1 Contribute to society and to human well-being: Ignoring the issue allowed unethical practices to continue.
+2.5 Give comprehensive and thorough evaluations of computer systems and their impacts: The investigation was inadequate and failed to address the potential risks associated with Armstech's technology.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
+
+
+:: Ignore the controversy and move on with your day {"position":"2000,225","size":"100,100"}
+You decide not to get involved and scroll past the news, thinking it’s just another controversy that will blow over. 
+
+Over the next few days, the story continues to unfold. More reports surface, but with mixed public reactions, the protests remain small and scattered. Many, like you, are either indifferent or too busy to pay much attention. 
+
+Without strong public pressure, Armstech keeps a low profile and continues its projects. The government announces a brief investigation, but it seems more like a formality than a real attempt to address the issue. After a few weeks, the media coverage fades, and the controversy becomes just another forgotten headline.
+
+[[Read a follow-up article about the investigation]]
+[[Ignore it and move on with your day]]
+
+
+
 :: Learn more about the project members {"position":"850,100","size":"100,100"}
 Team Members and Roles:
  <ul>
   <li>Erik Dengler - Rule1</li>
   <li>Kunlong He - Creating hyperlinks, writing different endings to the branches</li>
   <li>Kyana Sohangar - Rule3</li>
-  <li>Seongwoon Lee - Rule4</li>
+  <li>Seongwoon Lee - writing public perspective</li>
 </ul>
 
 [[Start the game]]
+
+
+:: Let the conversation grow, focusing on action over accuracy {"position":"1675,450","size":"100,100"}
+You decide not to intervene and let the conversation continue to grow. As more people join the debate, the spread of misinformation fuels even stronger public outrage. Protests are organized, petitions are signed, and the movement against Armstech gains momentum.
+
+However, the chaotic nature of the discussion means that not all of the claims are accurate. Some people use the opportunity to spread exaggerated or false information, which undermines the credibility of the movement. Armstech seizes on this, releasing a statement that discredits the movement by highlighting the misinformation.
+
+You see that the movement is at a turning point. You can try to step in now to correct the misinformation, but it may be too late. Or you can encourage the movement to stay strong, hoping that public pressure will still lead to action against Armstech.
+
+You
+
+[[Step in now to correct the misinformation and regain credibility]]
+[[Encourage the movement to stay strong and keep pushing for change]]
+
+
+
+:: Read a follow-up article about the investigation {"position":"2025,350","size":"100,100"}
+You click on a follow-up article about the investigation into Armstech. The headline reads:
+
+"Government Concludes Armstech Investigation: No Major Violations Found."
+
+The article explains that the investigation was brief and primarily based on internal reports provided by Armstech. Despite the initial concerns raised by the whistleblowers, the government states there wasn't enough evidence to take further action. Critics argue that the investigation was too shallow and may have been influenced by Armstech's connections.
+
+In the comment section, opinions are divided. Some believe Armstech was unfairly targeted, while others are frustrated by the lack of accountability. You feel a sense of unease as the story fades from the headlines.
+
+You
+
+[[Share your thoughts on social media, reigniting the conversation]]
+[[Close the article and move on]]
+
 
 
 :: Request more time to assess the impact of the technology {"position":"100,525","size":"100,100"}
@@ -177,6 +355,32 @@ You:
 [[Disagree to use lethal ammo]]
 
 
+:: Share the news on social media to spread awareness {"position":"1700,225","size":"100,100"}
+You post your thoughts on social media, criticizing the shallow investigation into Armstech. The hashtag #DemandTransparency begins trending, and the issue gains renewed attention. 
+
+As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts and making baseless claims. This adds confusion but also fuels more public outcry.
+
+You can step in to clarify the facts, even if it means attracting unwanted attention. Or you can let the debate grow, knowing it may push for action, despite the spread of misleading information.
+
+[[Clarify the information, even if it draws attention to you]]
+[[Let the conversation grow, focusing on action over accuracy]]
+
+
+
+:: Share your thoughts on social media, reigniting the conversation {"position":"1800,325","size":"100,100"}
+You post your thoughts on social media, criticizing the shallow investigation into Armstech. The hashtag #DemandTransparency begins trending, and the issue gains renewed attention. 
+
+As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts and making baseless claims. This adds confusion but also fuels more public outcry.
+
+You can step in to clarify the facts, even if it means attracting unwanted attention. Or you can let the debate grow, knowing it may push for action, despite the spread of misleading information.
+
+You
+
+[[Clarify the information, even if it draws attention to you]]
+[[Let the conversation grow, focusing on action over accuracy]]
+
+
+
 :: Speak to a supervisor, raising concerns about potential violations and ethical dilemmas {"position":"400,1075","size":"100,100"}
 After speaking to Armstech's leadership, they are not pleased with you questioning their business and moral decisions but will consider your concerns. 
 
@@ -195,11 +399,43 @@ This is a choose-your-own-adventure (CYOA) game based on a case study of <a href
 [[Start the game]]
 
 
-:: Start the game {"position":"350,175","size":"100,100"}
+:: Start the game {"position":"300,25","size":"100,100"}
 You are faced with a crucial decision: will you explore the inner workings of Armstech as an employee, or will you take a step back and see the implications of their technology from the public's perspective?
 
 [[Experience the company perspective]]
 [[Explore the public perspective]]
+
+
+:: Step back and encourage dialogue to de-escalate the situation {"position":"1475,325","size":"100,100"}
+<h2>Game Over - A Call for Dialogue</h2>
+You decide to step back from the protests and advocate for dialogue. A series of public discussions are organized, bringing more attention to the ethical issues surrounding facial recognition. The conversation is calmer, and Armstech agrees to consider more transparency.
+
+However, without the strong pressure from protests, the dialogue moves slowly, and it’s unclear if real change will happen. You wonder if stepping back was the right choice, or if stronger actions were necessary to push for accountability.
+
+<span style="color: red;">This outcome reflects challenges in adhering to the following principles:</span>
+1.1 Contribute to society and to human well-being: While advocating for dialogue, the urgency of the situation may have diminished.  
+1.2 Avoid harm: Slower dialogue may allow for harmful practices to continue without scrutiny.  
+2.5 Give comprehensive and thorough evaluations: The need for immediate action is overshadowed by lengthy discussions, risking oversight.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
+
+
+:: Step in now to correct the misinformation and regain credibility {"position":"1775,625","size":"100,100"}
+<h2>Game Over - Restoring Credibility</h2>
+You decide to step in and address the misinformation. You share a post clarifying the facts, urging others to be cautious about spreading unverified claims. Your message is shared widely, and some people thank you for bringing clarity to the situation.
+
+However, not everyone is receptive. Critics accuse you of trying to weaken the movement, and some even claim you're siding with Armstech. The conversation becomes heated, but eventually, your efforts help regain some credibility for the movement. News outlets pick up on your clarifications, prompting a more balanced discussion.
+
+Armstech issues another statement, acknowledging the ongoing concerns and promising to cooperate with further investigations. Your decision helped refocus the movement, but it also showed how difficult it can be to maintain integrity in the face of controversy.
+
+<span style="color: green;">This outcome reflects adherence to the following principles:</span>
+1.1 Contribute to society and to human well-being: Your clarification aims to protect public safety and promote accountability.  
+1.3 Be honest and trustworthy: By correcting misinformation, you uphold the value of honesty in the movement.  
+2.5 Give comprehensive and thorough evaluations: Your efforts help ensure that the movement's claims are backed by accurate information.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
 
 
 :: Stick to using your own database {"position":"1200,750","size":"100,100"}
