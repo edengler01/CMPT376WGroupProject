@@ -51,12 +51,16 @@ You
 
 
 :: Continue working and try to improve the system from within {"position":"50,1050","size":"100,100"}
+<h2>Game Over - Unhappy Ending<h2/>
 After the government took the lead in technology development, several original engineers at Armstech resigned in protest due to concerns that the technology could be misused. They worried about that the non-lethal responses had inadequate protections against tampering, fearing that this could threaten personal safety.
 
-Failed to adhere to the following principles:
+<span style="color: red;">Failed to adhere to the following principles:</span>
 1.1 Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing: Armstech's facial recognition system could suppress freedom of speech and association.
 1.4 Be fair and take action not to discriminate: The tool could be used by governments that do not respect to principles of fairness, allowing for abuses of power.
 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks: Armstech failed to adequately assess the risks associated with its machine learning system, not adhering to the required level of caution.
+
+<a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
 
 
 :: Continue working on the project, hoping the safeguards help {"position":"225,1100","size":"100,100"}
@@ -136,14 +140,14 @@ Team Members and Roles:
   <li>Seongwoon Lee - Rule4</li>
 </ul>
 
-[[Start Your Ethics Journey: Autonomous Active Response Weapons]]
+[[Start the game]]
 
 
 :: Request more time to assess the impact of the technology {"position":"225,625","size":"100,100"}
 The government approved your request, and Armstech provided you with the code for the facial recognition AI. You found that this AI model is complex and not transparent, acting as an "algorithmic black box," which made it challenging to comprehend its decision-making process. Consequently, you and your team conducted comprehensive testing of the model. After several rounds of testing, no technical defects were found.
 
 
-You:
+You
 
 [[Agree to use facial recognition, not opposing further government requests until flaws are identified]]
 [[Disagree with using facial recognition]]
@@ -195,7 +199,7 @@ You leave the company, thinking that it is impossible to make changes from withi
 In today's team meeting, the discussion centered on the latest update to the Pepper Ball Sentry's automatic response system. This non-lethal automated weapon has implemented facial recognition to improve target identification accuracy. The government offered to use secret watchlists to enhance the system's functionality and offered good remuneration for it.
 
 
-An an egineer on the team, you:
+An an egineer on the team, you
 
 [[Use government's secret data]]
 [[Create your own dataset]]
