@@ -1,0 +1,214 @@
+:: StoryTitle
+public'perspective
+
+
+:: StoryData
+{
+  "ifid": "2BFE16E8-5AB3-4073-A9D8-1BE13284A232",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Agree to the interview and speak out about the need for transparency {"position":"750,1000","size":"100,100"}
+You agree to the interview, knowing this is your chance to make a difference. During the interview, you speak candidly about the issues with Armstech's practices and emphasize the importance of transparency and accountability in developing autonomous technology.
+
+Your words resonate with many viewers, and the interview quickly spreads online. More people join the movement, and public pressure on Armstech intensifies. The government announces that it will conduct a new, independent investigation, citing public concerns and your interview as key factors.
+
+Though you faced criticism and risked your own privacy, your decision to speak out helped bring about real change. Armstech is now under more scrutiny than ever, and there's hope that this will lead to better regulations for the future.
+
+[[The End]]
+
+
+
+:: Clarify the information, even if it draws attention to you {"position":"900,925","size":"100,100"}
+You decide to step in and clarify the facts. You post a detailed message on social media, correcting the misinformation and urging others to share accurate information. Your post quickly gains traction, with many people appreciating your effort to bring clarity. 
+
+However, not everyone is pleased. Some accuse you of downplaying the issue, while others question your motives. Despite the backlash, your actions help calm the chaos, and the conversation becomes more focused on the real concerns about Armstech's practices.
+
+The renewed discussion catches the attention of a major news outlet, which reaches out to you for an interview. You realize that you now have an opportunity to push the conversation forward and demand accountability.
+
+You
+
+[[Agree to the interview and speak out about the need for transparency]]
+[[Decline the interview, preferring to stay out of the spotlight]]
+
+
+
+:: Close the article and move on {"position":"1175,800","size":"100,100"}
+You decide to close the article, feeling a mix of frustration and resignation. It seems like Armstech has managed to avoid any real consequences, and the story quickly fades from the headlines.
+
+Life goes on, and the controversy becomes just another forgotten issue, overshadowed by newer news. Without strong public pressure, Armstech quietly resumes its projects, and any hopes of accountability or change disappear. 
+
+Months later, there are rumors that Armstech has secured new government contracts, but no one seems to care anymore. 
+
+
+[[The End]]
+
+
+
+:: Continue protesting despite the risks {"position":"650,675","size":"100,100"}
+You decide to keep protesting, even as tensions rise. The protests draw more attention, forcing Armstech to address the ethical concerns. However, as the protests grow, so do the risks. Clashes with authorities increase, and some members of the public start to question whether the disruptions are justified.
+
+In the end, your persistence leads to a formal investigation into Armstech’s practices, but at the cost of public backlash and legal consequences for some protesters. You’re left wondering if there could have been a way to achieve the same results without risking so much.
+
+[[The End]]
+
+
+
+
+:: Decline the interview, preferring to stay out of the spotlight {"position":"875,1075","size":"100,100"}
+You politely decline the interview, choosing to stay out of the public eye. Instead, you continue to share accurate information on social media, encouraging others to keep the conversation focused and truthful.
+
+Your decision to stay behind the scenes means you avoid some of the backlash, but it also limits your influence. The movement continues to grow, but without a clear, vocal advocate, the message is less direct. 
+
+Armstech manages to deflect some of the criticism by highlighting smaller inaccuracies, but the movement doesn’t die down completely. Though your actions helped, it feels like a missed opportunity for stronger change.
+
+[[The End]]
+
+
+
+:: Encourage the movement to stay strong and keep pushing for change {"position":"1150,1175","size":"100,100"}
+You decide to let the conversation grow, encouraging the movement to stay strong despite the misinformation. You share posts that focus on the bigger issues, urging people to keep the pressure on Armstech and demand accountability.
+
+The movement continues to gain momentum, but the spread of misinformation leads to confusion and mixed messages. Armstech takes advantage of this, releasing statements that discredit some of the exaggerated claims, making it harder for the public to trust the movement. 
+
+Despite this, the protests grow larger, and more petitions are signed. The government announces a new, more thorough investigation. Your decision helped keep the pressure on Armstech, but the movement's lack of clear messaging may have weakened its overall impact.
+
+[[The End]]
+
+
+
+:: Express outrage and join a protest against Armstech {"position":"825,550","size":"100,100"}
+Outraged by the news, you join a protest against Armstech. The protests spread quickly, with people demanding an end to the development of lethal autonomous weapons. One major concern is the use of **facial recognition technology**, which critics say violates privacy and could lead to biased targeting.
+
+As the protests grow, tensions rise, and clashes with law enforcement occur. Some criticize the protests for causing disruption, while others believe they are necessary to address the dangers of this technology.
+
+You
+
+[[Continue protesting despite the risks]]
+[[Step back and encourage dialogue to de-escalate the situation]]
+
+
+
+:: Ignore it and move on with your day {"position":"1300,675","size":"100,100"}
+You decide to ignore the story and move on. Over time, the controversy surrounding Armstech fades, replaced by newer headlines that capture the public's attention. 
+
+With little public pressure, the government wraps up its investigation quickly, stating there wasn't enough evidence to take action. Critics argue that the investigation was superficial, but the news cycle has already moved on, and so have most people.
+
+Months later, Armstech quietly resumes its projects, securing new government contracts without any significant backlash. The concerns raised by the whistleblowers are mostly forgotten, and the potential risks of the technology continue to loom. Although no major incidents have occurred yet, the possibility remains, with little to prevent it.
+
+
+[[The End]]
+
+
+
+:: Ignore the controversy and move on with your day {"position":"1075,550","size":"100,100"}
+You decide not to get involved and scroll past the news, thinking it’s just another controversy that will blow over. 
+
+Over the next few days, the story continues to unfold. More reports surface, but with mixed public reactions, the protests remain small and scattered. Many, like you, are either indifferent or too busy to pay much attention. 
+
+Without strong public pressure, Armstech keeps a low profile and continues its projects. The government announces a brief investigation, but it seems more like a formality than a real attempt to address the issue. After a few weeks, the media coverage fades, and the controversy becomes just another forgotten headline.
+
+[[Read a follow-up article about the investigation]]
+[[Ignore it and move on with your day]]
+
+
+
+:: Let the conversation grow, focusing on action over accuracy {"position":"1100,925","size":"100,100"}
+You decide not to intervene and let the conversation continue to grow. As more people join the debate, the spread of misinformation fuels even stronger public outrage. Protests are organized, petitions are signed, and the movement against Armstech gains momentum.
+
+However, the chaotic nature of the discussion means that not all of the claims are accurate. Some people use the opportunity to spread exaggerated or false information, which undermines the credibility of the movement. Armstech seizes on this, releasing a statement that discredits the movement by highlighting the misinformation.
+
+You see that the movement is at a turning point. You can try to step in now to correct the misinformation, but it may be too late. Or you can encourage the movement to stay strong, hoping that public pressure will still lead to action against Armstech.
+
+You
+
+[[Step in now to correct the misinformation and regain credibility]]
+[[Encourage the movement to stay strong and keep pushing for change]]
+
+
+
+:: Read a follow-up article about the investigation {"position":"1175,675","size":"100,100"}
+You click on a follow-up article about the investigation into Armstech. The headline reads:
+
+"Government Concludes Armstech Investigation: No Major Violations Found."
+
+The article explains that the investigation was brief and primarily based on internal reports provided by Armstech. Despite the initial concerns raised by the whistleblowers, the government states there wasn't enough evidence to take further action. Critics argue that the investigation was too shallow and may have been influenced by Armstech's connections.
+
+In the comment section, opinions are divided. Some believe Armstech was unfairly targeted, while others are frustrated by the lack of accountability. You feel a sense of unease as the story fades from the headlines.
+
+You
+
+[[Share your thoughts on social media, reigniting the conversation]]
+[[Close the article and move on]]
+
+
+
+:: Share the news on social media to spread awareness {"position":"950,550","size":"100,100"}
+You post your thoughts on social media, criticizing the shallow investigation into Armstech. The hashtag #DemandTransparency begins trending, and the issue gains renewed attention. 
+
+As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts and making baseless claims. This adds confusion but also fuels more public outcry.
+
+You can step in to clarify the facts, even if it means attracting unwanted attention. Or you can let the debate grow, knowing it may push for action, despite the spread of misleading information.
+
+[[Clarify the information, even if it draws attention to you]]
+[[Let the conversation grow, focusing on action over accuracy]]
+
+
+
+:: Share your thoughts on social media, reigniting the conversation {"position":"925,775","size":"100,100"}
+You post your thoughts on social media, criticizing the shallow investigation into Armstech. The hashtag #DemandTransparency begins trending, and the issue gains renewed attention. 
+
+As more people join the conversation, you notice some posts start spreading misinformation, exaggerating facts and making baseless claims. This adds confusion but also fuels more public outcry.
+
+You can step in to clarify the facts, even if it means attracting unwanted attention. Or you can let the debate grow, knowing it may push for action, despite the spread of misleading information.
+
+You
+
+[[Clarify the information, even if it draws attention to you]]
+[[Let the conversation grow, focusing on action over accuracy]]
+
+
+
+:: Step back and encourage dialogue to de-escalate the situation {"position":"762.5,675","size":"100,100"}
+You decide to step back from the protests and advocate for dialogue. A series of public discussions are organized, bringing more attention to the ethical issues surrounding facial recognition. The conversation is calmer, and Armstech agrees to consider more transparency.
+
+However, without the strong pressure from protests, the dialogue moves slowly, and it’s unclear if real change will happen. You wonder if stepping back was the right choice, or if stronger actions were necessary to push for accountability.
+
+
+[[The End]]
+
+
+
+:: Step in now to correct the misinformation and regain credibility {"position":"1037.5,1175","size":"100,100"}
+You decide to step in and address the misinformation. You share a post clarifying the facts, urging others to be cautious about spreading unverified claims. Your message is shared widely, and some people thank you for bringing clarity to the situation.
+
+However, not everyone is receptive. Critics accuse you of trying to weaken the movement, and some even claim you're siding with Armstech. The conversation becomes heated, but eventually, your efforts help regain some credibility for the movement. News outlets pick up on your clarifications, prompting a more balanced discussion.
+
+Armstech issues another statement, acknowledging the ongoing concerns and promising to cooperate with further investigations. Your decision helped refocus the movement, but it also showed how difficult it can be to maintain integrity in the face of controversy.
+
+[[The End]]
+
+
+
+:: The End {"position":"1100,1350","size":"100,100"}
+
+
+
+:: Untitled Passage {"position":"950,425","size":"100,100"}
+Late at night, a group of former engineers from Armstech decides to break their silence. They gather crucial documents and evidence, and anonymously leak them to several major news outlets. 
+
+The next morning, the headlines read:
+"Whistleblowers Expose Armstech's Secret: Lethal Autonomous Weapons in Development."
+
+The articles describe how Armstech has been secretly developing a controversial new weapon system that uses facial recognition technology to target individuals. The engineers reveal that the project bypasses ethical guidelines, and they felt compelled to speak out. Within hours, the news spreads like wildfire across social media, and people everywhere start reacting.
+
+As a member of the public, you
+
+[[Express outrage and join a protest against Armstech]]
+[[Share the news on social media to spread awareness]]
+[[Ignore the controversy and move on with your day]]
+
