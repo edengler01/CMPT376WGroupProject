@@ -7,12 +7,12 @@ CYOA376W
   "ifid": "39B9DD4E-FED6-402F-9A96-98A3C9B1E07F",
   "format": "Harlowe",
   "format-version": "3.3.9",
-  "start": "You walk in to work",
+  "start": "Start Your Ethics Journey: Autonomous Active Response Weapons",
   "zoom": 1
 }
 
 
-:: Agree to use facial recognition, not opposing further government requests until flaws are identified {"position":"200,500","size":"100,100"}
+:: Agree to use facial recognition, not opposing further government requests until flaws are identified {"position":"225,825","size":"100,100"}
 Armstech’s leadership just briefed you on another request from the government; they requested an expansion of the automated responses in Pepper Bell Sentry to include lethal responses and ammo. This includes autonomous targeting of individuals using facial recognition features, even in situations where immediate danger is not opposed. 
 
 As the meeting concludes, you're filled with unease considering the possible threats Pepper Bell Sentry can cause when used with lethal ammo.
@@ -23,7 +23,7 @@ As the meeting concludes, you're filled with unease considering the possible thr
 [[The ethical issues are too much for you so you resign immediately]]
 
 
-:: Agree to use lethal ammo using your own data {"position":"850,525","size":"100,100"}
+:: Agree to use lethal ammo using your own data {"position":"875,850","size":"100,100"}
 The government officials are pleased and grant you and Armstech the lucartive defense contract to work on a lethal version of the Pepper Ball Sentry. 
 
 You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to create a lethal version of the Pepper Ball Sentry.
@@ -36,7 +36,7 @@ You
 [[Face the scrutiny and let them talk]]
 
 
-:: Agree to use lethal ammo while using secret data {"position":"550,525","size":"100,100"}
+:: Agree to use lethal ammo while using secret data {"position":"575,850","size":"100,100"}
 The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract which is lower than anticipated.
  
 
@@ -50,7 +50,7 @@ You
 [[Face the scrutiny and let them talk]]
 
 
-:: Continue working and try to improve the system from within {"position":"25,725","size":"100,100"}
+:: Continue working and try to improve the system from within {"position":"50,1050","size":"100,100"}
 After the government took the lead in technology development, several original engineers at Armstech resigned in protest due to concerns that the technology could be misused. They worried about that the non-lethal responses had inadequate protections against tampering, fearing that this could threaten personal safety.
 
 Failed to adhere to the following principles:
@@ -59,7 +59,7 @@ Failed to adhere to the following principles:
 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks: Armstech failed to adequately assess the risks associated with its machine learning system, not adhering to the required level of caution.
 
 
-:: Continue working on the project, hoping the safeguards help {"position":"200,775","size":"100,100"}
+:: Continue working on the project, hoping the safeguards help {"position":"225,1100","size":"100,100"}
 Some time passes, the project advances and you've contributed to the development of the Pepper Ball Sentry using facial recognition system and lethal responses. One day, you learn that the system was used in a foreign conflict and lead to many casualties and deaths of hundreds of civilians who may not have posed a threat. This is time, the number the of individuals harmed is much higher and gets you thinking that the safeguards weren’t guaranteeing much security. You're wondering about your ethical values and having to contribute to a technology that has posed so much civilian harm. You can't help but feel responsible for these serious outcomes.
 
 
@@ -67,7 +67,7 @@ Some time passes, the project advances and you've contributed to the development
 [[Think about resigning]]
 
 
-:: Continue working on the project; after all it’s your job {"position":"200,650","size":"100,100"}
+:: Continue working on the project; after all it’s your job {"position":"225,975","size":"100,100"}
 As months pass, the project advances and you've contributed to the development of the Pepper Ball Sentry using facial recognition system and lethal responses. One day, you hear that the system was used at a peaceful protest. A few innocent individuals protesting were injured or possibly dead while the system targeted a particular threat within them. Even though only a few individuals were harmed for a particular threat that could have been armed and caused a wider damage, you can't help but feel responsible for the outcome.
 
 
@@ -76,7 +76,7 @@ As months pass, the project advances and you've contributed to the development o
 [[The ethical issues are too much for you so you resign immediately]]
 
 
-:: Create your own dataset {"position":"1000,300","size":"100,100"}
+:: Create your own dataset {"position":"1025,625","size":"100,100"}
 The officals OK your request for using your own data.
 
 The officials then give you one last request. The Pepper Ball Sentry uses proprietary pepper balls.
@@ -90,7 +90,7 @@ You:
 [[Disagree to use lethal ammo while using your own data]]
 
 
-:: Disagree to use lethal ammo while using secret data {"position":"700,525","size":"100,100"}
+:: Disagree to use lethal ammo while using secret data {"position":"725,850","size":"100,100"}
 The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract which is lower than anticipated.
  
 
@@ -104,7 +104,7 @@ You
 [[Face the scrutiny and let them talk]]
 
 
-:: Disagree to use lethal ammo while using your own data {"position":"1000,525","size":"100,100"}
+:: Disagree to use lethal ammo while using your own data {"position":"1025,850","size":"100,100"}
 The officials are disappointed, but they still offer you a lower defense contract to work on a non-lethal Pepper Ball sentry using your own datasets. 
 
 You decide to call a meeting with your team and announce the news. The developers are happy that Armstech has gone with non-lethal and even with decided how to create their own data sets for facial recognition.
@@ -116,20 +116,30 @@ The devs appreciate that you followed:
 2.5 Comprehensive & through evaulations of systems and impacts: By creating their own datasets and not allowing modularization of the Sentry, evaluation is through and controlled by Armstech.
 
 
-:: Disagree with using facial recognition {"position":"500,300","size":"100,100"}
-
-
+:: Disagree with using facial recognition {"position":"525,625","size":"100,100"}
 [[Speak to a supervisor, raising concerns about potential violations and ethical dilemmas]]
 [[The ethical issues are too much for you so you resign immediately]]
 
 
-:: Face the scrutiny and let them talk {"position":"800,800","size":"100,100"}
+:: Face the scrutiny and let them talk {"position":"825,1125","size":"100,100"}
 The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
 
 Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
 
 
-:: Request more time to assess the impact of the technology {"position":"200,300","size":"100,100"}
+:: Learn more about the project members {"position":"850,100","size":"100,100"}
+Team Members and Roles:
+ <ul>
+  <li>Erik Dengler - Rule1</li>
+  <li>Kunlong He - Rule2</li>
+  <li>Kyana Sohangar - Rule3</li>
+  <li>Seongwoon Lee - Rule4</li>
+</ul>
+
+[[Start Your Ethics Journey: Autonomous Active Response Weapons]]
+
+
+:: Request more time to assess the impact of the technology {"position":"225,625","size":"100,100"}
 The government approved your request, and Armstech provided you with the code for the facial recognition AI. You found that this AI model is complex and not transparent, acting as an "algorithmic black box," which made it challenging to comprehend its decision-making process. Consequently, you and your team conducted comprehensive testing of the model. After several rounds of testing, no technical defects were found.
 
 
@@ -139,8 +149,7 @@ You:
 [[Disagree with using facial recognition]]
 
 
-
-:: Speak to a supervisor, raising concerns about potential violations and ethical dilemmas {"position":"375,650","size":"100,100"}
+:: Speak to a supervisor, raising concerns about potential violations and ethical dilemmas {"position":"400,975","size":"100,100"}
 After speaking to Armstech's leadership, they are not pleased with you questioning their business and moral decisions but will consider your concerns. 
 
 Leadership explains that while they understand the risks, they see this as a great opportunity for the growth of the company and the potential contracts they can receive from multiple governments are too lucrative to ignore. They decide to proceed with the new applications but adding safeguards to the system to ensure minimum violations and casualties.
@@ -151,59 +160,14 @@ You're left wondering if the safeguards are good enough or if there's something 
 [[Think about resigning]]
 
 
+:: Start Your Ethics Journey: Autonomous Active Response Weapons {"position":"575,25","size":"100,100"}
+This is a choose-your-own-adventure (CYOA) game based on a case study of <a href="https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-response-weaponry/">Autonomous Active Response Weapons</a> from the <a href="https://ethics.acm.org/integrity-project/case-studies/">ACM Code of Ethics. </a>
+
+[[Learn more about the project members]]
+[[Start the game]]
 
 
-:: Sue them for leaking company secrets {"position":"600,800","size":"100,100"}
-The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
-
-Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
-
-
-:: The ethical issues are too much for you so you resign immediately {"position":"50,500","size":"100,100"}
-You leave the company, thinking that it is impossible to make changes from within but you know others will continue the work without you.
-
-
-
-:: There is a meeting to be had (You are an engineer working on a project) {"position":"225,150","size":"100,100"}
-In today's team meeting, the discussion centered on the latest update to the Pepper Ball Sentry's automatic response system. This non-lethal automated weapon has implemented facial recognition to improve target identification accuracy. The government offered to use secret watchlists to enhance the system's functionality and offered good remuneration for it.
-
-
-An an egineer on the team, you:
-
-[[Use government's secret data]]
-[[Create your own dataset]]
-[[Request more time to assess the impact of the technology]]
-[[Disagree with using facial recognition]]
-
-
-:: Think about resigning {"position":"225,950","size":"100,100"}
-
-
-
-:: Use government's secret data {"position":"800,300","size":"100,100"}
-The officials then give you one last request. The Pepper Ball Sentry uses proprietary pepper balls.
-
-The government officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
-
-
-You decide to:
-
-[[Agree to use lethal ammo while using secret data]] 
-[[Disagree to use lethal ammo while using secret data]]
-
-
-:: You called a meeting (You are a project lead) {"position":"850,150","size":"100,100"}
-You are meeting with Government officials, ironing out a lucrative defense contract. They express interest in allowing your Pepper Ball Sentry use facial recognition AI using datasets from secret watchlists.
-
-
-You
-
-[[Use government's secret data]]
-[[Create your own dataset]]
-[[Disagree with using facial recognition]]
-
-
-:: You walk in to work {"position":"550,0","size":"100,100"}
+:: Start the game {"position":"550,350","size":"100,100"}
 You work at Armstech, an up-and-coming international defense technology contractor specializing in autonomous vehicles and surveillance systems.
 
 As an early pioneer in the industry, Armstech established itself as a vendor of choice for both military and law enforcement applications, with a focus on passive systems, such as bomb-defusing robots and crowd-monitoring drones. These products have been used in conflict zones, non-violent protests, and even embassy security systems.
@@ -217,4 +181,50 @@ You walk in to work and remember that
 [[There is a meeting to be had (You are an engineer working on a project)]]
 
 
+:: Sue them for leaking company secrets {"position":"625,1125","size":"100,100"}
+The developers come out and release that Armstech is secretly developing potential lethal autonmous weaponry. The company is forced to come out and they due to certain circumstances, they have to change how they approach tech.
 
+Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
+
+
+:: The ethical issues are too much for you so you resign immediately {"position":"75,825","size":"100,100"}
+You leave the company, thinking that it is impossible to make changes from within but you know others will continue the work without you.
+
+
+:: There is a meeting to be had (You are an engineer working on a project) {"position":"250,475","size":"100,100"}
+In today's team meeting, the discussion centered on the latest update to the Pepper Ball Sentry's automatic response system. This non-lethal automated weapon has implemented facial recognition to improve target identification accuracy. The government offered to use secret watchlists to enhance the system's functionality and offered good remuneration for it.
+
+
+An an egineer on the team, you:
+
+[[Use government's secret data]]
+[[Create your own dataset]]
+[[Request more time to assess the impact of the technology]]
+[[Disagree with using facial recognition]]
+
+
+:: Think about resigning {"position":"250,1275","size":"100,100"}
+
+
+
+:: Use government's secret data {"position":"825,625","size":"100,100"}
+The officials then give you one last request. The Pepper Ball Sentry uses proprietary pepper balls.
+
+The government officials express concern about this and ask if you can modify the ammo chamber to use 3rd party ammo, including lethal types.
+
+
+You decide to:
+
+[[Agree to use lethal ammo while using secret data]] 
+[[Disagree to use lethal ammo while using secret data]]
+
+
+:: You called a meeting (You are a project lead) {"position":"875,475","size":"100,100"}
+You are meeting with Government officials, ironing out a lucrative defense contract. They express interest in allowing your Pepper Ball Sentry use facial recognition AI using datasets from secret watchlists.
+
+
+You
+
+[[Use government's secret data]]
+[[Create your own dataset]]
+[[Disagree with using facial recognition]]
