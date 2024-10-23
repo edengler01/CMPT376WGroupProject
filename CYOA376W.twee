@@ -41,22 +41,8 @@ As the meeting concludes, you're filled with unease considering the possible thr
 ☞ [[The ethical issues are too much for you so you resign immediately]]
 
 
-:: Agree to use lethal ammo {"position":"875,850","size":"100,100"}
-The government officials are pleased and grant you and Armstech the lucrative defense contract to work on a lethal version of the Pepper Ball Sentry. 
-
-You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to create a lethal version of the Pepper Ball Sentry.
-
-Many of them quit in protest and plan to speak out about Armstech creating an autonomous weapon that can kill.
-
-
-You
-
-☞ [[Sue them for leaking company secrets]]
-☞ [[Face the scrutiny and let them talk]]
-
-
-:: Agree to use lethal ammo while using secret data {"position":"575,850","size":"100,100"}
-The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract that is lower than anticipated.
+:: Agree to use lethal ammo {"position":"575,850","size":"100,100"}
+The government officials are pleased with your decision to implement a modular ammo chamber for the Sentry and gladly offer you an ideal contract.
  
 
 You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to use secret government data for the Pepper Ball Sentry.
@@ -66,8 +52,38 @@ Many of them quit in protest and plan to speak out about Armstech using secret d
 
 You
 
-☞ [[Sue them for leaking company secrets]]
-☞ [[Face the scrutiny and let them talk]]
+☞ (link: "Sue them for leaking company secrets")[
+    (set: $useLethalAmmo to true)
+    (set: $useOwnData to false)
+    (go-to: "Sue them for leaking company secrets")
+]
+☞ (link: "Face the scrutiny and let them talk")[
+    (set: $useLethalAmmo to true)
+    (set: $useOwnData to false)
+    (go-to: "Face the scrutiny and let them talk")
+]
+
+
+:: Agree to use lethal ammo while using your own data {"position":"875,850","size":"100,100"}
+The government officials are pleased and grant you and Armstech the lucrative defense contract to work on a lethal version of the Pepper Ball Sentry. 
+
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to create a lethal version of the Pepper Ball Sentry.
+
+Many of them quit in protest and plan to speak out about Armstech creating an autonomous weapon that can kill.
+
+
+You
+
+☞ (link: "Sue them for leaking company secrets")[
+    (set: $useLethalAmmo to true)
+    (set: $useOwnData to true)
+    (go-to: "Sue them for leaking company secrets")
+]
+☞ (link: "Face the scrutiny and let them talk")[
+    (set: $useLethalAmmo to true)
+    (set: $useOwnData to true)
+    (go-to: "Face the scrutiny and let them talk")
+]
 
 
 :: Clarify the information, even if it draws attention to you {"position":"1525,450","size":"100,100"}
@@ -190,7 +206,30 @@ Armstech manages to deflect some of the criticism by highlighting smaller inaccu
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
 
-:: Disagree to use lethal ammo {"position":"1050,925","size":"100,100"}
+:: Disagree to use lethal ammo {"position":"725,850","size":"100,100"}
+The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract that is lower than anticipated.
+ 
+
+You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to use secret government data for the Pepper Ball Sentry.
+
+Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.
+
+
+You
+
+☞ (link: "Sue them for leaking company secrets")[
+    (set: $useLethalAmmo to false)
+    (set: $useOwnData to false)
+    (go-to: "Sue them for leaking company secrets")
+]
+☞ (link: "Face the scrutiny and let them talk")[
+    (set: $useLethalAmmo to false)
+    (set: $useOwnData to false)
+    (go-to: "Face the scrutiny and let them talk")
+]
+
+
+:: Disagree to use lethal ammo while using your own data {"position":"1050,925","size":"100,100"}
 <h2>Game Over - Positive Ending<h2/>
 The officials are disappointed, but they still offer you a reasonable defense contract to work on a non-lethal Pepper Ball sentry using your own datasets. 
 
@@ -204,21 +243,6 @@ You decide to call a meeting with your team and announce the news. The developer
 2.5 Comprehensive & thorough evaluations of systems and impacts: By creating their own datasets and not allowing modularization of the Sentry, evaluation is through and controlled by Armstech.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
-
-
-:: Disagree to use lethal ammo while using secret data {"position":"725,850","size":"100,100"}
-The government officials are disappointed in not making a modular ammo chamber for the Sentry but decide to still offer you a contract that is lower than anticipated.
- 
-
-You decide to call a meeting with your team and announce the news. You then find out that many of the developers express discontent with the decision to use secret government data for the Pepper Ball Sentry.
-
-Many of them quit in protest and plan to speak out about Armstech using secret data watchlists.
-
-
-You
-
-☞ [[Sue them for leaking company secrets]]
-☞ [[Face the scrutiny and let them talk]]
 
 
 :: Disagree with using facial recognition {"position":"450,525","size":"100,100"}
@@ -289,19 +313,37 @@ You
 
 
 :: Face the scrutiny and let them talk {"position":"825,1125","size":"100,100"}
-<h2>Game Over - Unhappy Ending<h2/>
-After the government took the lead in technology development, several original engineers at Armstech resigned in protest due to concerns that the technology could be misused. They worried that the non-lethal responses had inadequate protections against tampering, fearing that this could threaten personal safety.
+<h3>Game Over - Morally Ambiguous Ending<h3/>
 
 The developers came out and released that Armstech is secretly developing potentially lethal autonomous weaponry. The company is forced to come out and due to certain circumstances, they have to change how they approach tech.
 
 Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
 
-<span style="color: red;">Failed to adhere to the following principles:</span>
-1.1 Contribute to society and human well-being, acknowledging that all people are stakeholders in computing: Armstech's facial recognition system could suppress freedom of speech and association.
+(if: $useLethalAmmo is true and $useOwnData is false)[
+<span style="color: green;">The public thanks you for adhering to the following principle:</span>
+2.7 Foster public awareness and understanding of computing, related technologies, and their consequences: The developers at Armstech disclosed their secret development and technical knowledge to the public.
+<span style="color: red;">However, your previous choices violated the following principle:</span>
+1.2 Avoid harm: Using lethal ammunition could result in unjustified physical injury
+1.4 Be fair and take action not to discriminate: Using secret data and lethal ammunition could lead to an abuse of power.
+1.6 Respect privacy: Data collection was conducted without informed consent.
+]
+(else-if: $useLethalAmmo is true and $useOwnData is true)[
+<span style="color: green;">The public thanks you for adhering to the following principle:</span>
+1.6 Respect privacy: Armstech is committed to minimal data collection, ensuring transparency and user consent.
+2.7 Foster public awareness and understanding of computing, related technologies, and their consequences: The developers at Armstech disclosed their secret development and technical knowledge to the public.
 
-1.4 Be fair and take action not to discriminate: The tool could be used by governments that do not respect to principles of fairness, allowing for abuses of power.
-
-2.5 Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks: Armstech failed to adequately assess the risks associated with its machine learning system, not adhering to the required level of caution.
+<span style="color: red;">However, your previous choices violated the following principle:</span>
+1.2 Avoid harm: Using lethal ammunition could result in unjustified physical injury
+1.4 Be fair and take action not to discriminate: Using secret data and lethal ammunition could lead to an abuse of power.
+]
+(else-if: $useLethalAmmo is false and $useOwnData is false)[
+<span style="color: green;">The public thanks you for adhering to the following principle:</span>
+1.2 Avoid harm: Not using lethal ammunition resulted in harm.
+2.7 Foster public awareness and understanding of computing, related technologies, and their consequences: The developers at Armstech disclosed their secret development and technical knowledge to the public.
+<span style="color: red;">However, your previous choices violated the following principle:</span>
+1.4 Be fair and take action not to discriminate: Using secret data and lethal ammunition could lead to an abuse of power.
+1.6 Respect privacy: Data collection was conducted without informed consent.
+]
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
@@ -396,8 +438,8 @@ After intense negotiations with government officials, you emphasized Armstech's 
 
 You
 
-☞ [[Agree to use lethal ammo]]
-☞ [[Disagree to use lethal ammo]]
+☞ [[Agree to use lethal ammo while using your own data]]
+☞ [[Disagree to use lethal ammo while using your own data]]
 
 
 :: Share the news on social media to spread awareness {"position":"1700,225","size":"100,100"}
@@ -499,9 +541,30 @@ The government cut funding for the project and canceled the development of many 
 
 
 :: Sue them for leaking company secrets {"position":"625,1125","size":"100,100"}
+(if: $useLethalAmmo is true and $useOwnData is false)[<h3>Game Over - Grim Ending<h3/>] (else:) [<h3>Game Over - Morally Ambiguous Ending<h3/>]
+
 The developers came out and released that Armstech is secretly developing potentially lethal autonomous weaponry. The company is forced to come out and due to certain circumstances, they have to change how they approach tech.
 
 Armstech becomes known for breaking ECM Ethics and many potential employees and investors become wary.
+
+(if: $useLethalAmmo is true and $useOwnData is false)[
+    <span style="color: red;">Failed to adhere to the following principles:</span>
+    1.2 Avoid harm: Using lethal ammunition could result in unjustified physical injury
+    1.4 Be fair and take action not to discriminate: Using secret data and lethal ammunition could lead to an abuse of power.
+    1.6 Respect privacy: Data collection was conducted without informed consent.
+]
+(else-if: $useLethalAmmo is true and $useOwnData is true)[
+    <span style="color: red;">Failed to adhere to the following principles:</span>
+    1.2 Avoid harm: Using lethal ammunition could result in unjustified physical injury
+    1.4 Be fair and take action not to discriminate: Using secret data and lethal ammunition could lead to an abuse of power.
+]
+(else-if: $useLethalAmmo is false and $useOwnData is false)[
+    <span style="color: green;">Follow the principle:</span>
+    1.2 Avoid harm: Not using lethal ammunition resulted in harm.
+    <span style="color: red;">Failed to adhere to the following principles:</span>
+    1.4 Be fair and take action not to discriminate: Using secret data and lethal ammunition could lead to an abuse of power.
+    1.6 Respect privacy: Data collection was conducted without informed consent.
+]
 
 
 :: The ethical issues are too much for you so you resign immediately {"position":"75,825","size":"100,100"}
@@ -527,8 +590,8 @@ The government officials express concern about this and ask if you can modify th
 
 You decide to
 
-☞ [[Agree to use lethal ammo while using secret data]] 
-☞ [[Disagree to use lethal ammo while using secret data]]
+☞ [[Agree to use lethal ammo]] 
+☞ [[Disagree to use lethal ammo]]
 
 
 :: You called a meeting (You are a project lead) {"position":"1025,225","size":"100,100"}
