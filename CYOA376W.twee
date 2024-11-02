@@ -389,7 +389,7 @@ Team Members and Roles:
 Case: Automated Active Response Weaponry
 https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-response-weaponry/
 
-☞ [[Start the game]]
+☞ [[Start the game->transitionAnimation]]
 
 
 :: Let the conversation grow, focusing on action over accuracy {"position":"1675,450","size":"100,100"}
@@ -485,7 +485,7 @@ This is a choose-your-own-adventure (CYOA) game based on a case study of <a href
 
 
 ☞ [[Learn more about the project members]]
-☞ [[Start the game]]
+☞ [[Start the game->transitionAnimation]]
 
 
 :: Start the game {"position":"300,100","size":"100,100"}
@@ -617,3 +617,48 @@ The government cut funding for the project and canceled the development of many 
 1.6 Respect privacy: Armstech is committed to minimal data collection, ensuring transparency and user consent.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
+
+
+:: transitionAnimation {"position":"600,125","size":"100,100"}
+<div class="transition-screen">
+  <div class="transition-animation">
+    <h1 class="text">Autonomous Active Response Weapons</h1>
+  </div>
+</div>
+
+(live: 3s)[
+  (go-to: "Start the game")
+]
+
+
+:: StoryStylesheet [stylesheet]
+.transition-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  background: black;
+  padding: 0;
+  margin: 0;
+}
+
+.transition-animation {
+  filter: brightness(150%);
+}
+
+.text {
+  font-size: 3em;
+  font-family: 'Verdana', sans-serif;
+  color: transparent;
+  background: linear-gradient(90deg, orange, yellow, red, yellow, orange);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: flame 3s linear infinite;
+}
+
+@keyframes flame {
+  0% { background-position: 100% center; }
+  100% { background-position: 0% center; }
+}
