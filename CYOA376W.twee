@@ -1271,10 +1271,17 @@ CYOA376W
 
 You leave the company, thinking that it is impossible to make changes from within but you know others will continue the work without you.
 
+<span style="color: green;">You adhered to the following principles:</span>
+1.2 Avoid harm: You care about minimizing unintended harm and mitigating risks so you decide not to contribute to a system that does not align with those morals.
+
+3.1 Priority of the Public Good: By leaving the company, you consider the public good in this technology development. People must be at the center of all technology work, with their well-being prioritized.
+
 <span style="color: red;">The following principles were not upheld:</span>
 1.1 Contribute to society and human well-being: Avoiding the issue allowed unethical practices to continue.
 
 2.5 Give comprehensive and thorough evaluations of computer systems and their impacts: The investigation was inadequate and failed to address the potential risks associated with Armstech's technology.
+
+2.7 Ethical obligation to report harm: You stayed silent even though you became aware of the harm the system poses.
 
 <a href="https://ethics.acm.org/">Visit the ACM Code of Ethics and Professional Conduct</a>
 
